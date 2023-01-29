@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SeniorDesign\I2C_LIS3DH\Shared Files\stdio_user.c">
+<ExpandedNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky\TopDesign</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr\Pins</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr\Analog</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr\DMA</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr\Clocks</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr\Interrupts</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr\System</v>
+<v>SeniorDesign\Blinky\Blinky.cydwr\Directives</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\ARM GCC Generic</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\ARM IAR Generic</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\ARM MDK Generic</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Header Files</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>SeniorDesign\Blinky\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\ARM MDK Generic</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Header Files</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>SeniorDesign\Blinky\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>SeniorDesign\Blinky\Shared Files</v>
+<v>SeniorDesign\Blinky\Shared Files\cyapicallbacks.h</v>
+<v>SeniorDesign\Blinky\Shared Files\system_psoc6.h</v>
+<v>SeniorDesign\Blinky\Generated_Source</v>
+<v>SeniorDesign\Blinky\Generated_Source\PSoC6</v>
+<v>SeniorDesign\Debug\TopDesign</v>
+<v>SeniorDesign\Debug\Debug.cydwr</v>
+<v>SeniorDesign\Debug\Debug.cydwr\Pins</v>
+<v>SeniorDesign\Debug\Debug.cydwr\Analog</v>
+<v>SeniorDesign\Debug\Debug.cydwr\DMA</v>
+<v>SeniorDesign\Debug\Debug.cydwr\Clocks</v>
+<v>SeniorDesign\Debug\Debug.cydwr\Interrupts</v>
+<v>SeniorDesign\Debug\Debug.cydwr\System</v>
+<v>SeniorDesign\Debug\Debug.cydwr\Directives</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\ARM GCC Generic</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\ARM IAR Generic</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\ARM MDK Generic</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Header Files</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>SeniorDesign\Debug\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\ARM MDK Generic</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Header Files</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>SeniorDesign\Debug\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>SeniorDesign\Debug\Shared Files</v>
+<v>SeniorDesign\Debug\Shared Files\cyapicallbacks.h</v>
+<v>SeniorDesign\Debug\Shared Files\system_psoc6.h</v>
+<v>SeniorDesign\Debug\Generated_Source</v>
+<v>SeniorDesign\Debug\Generated_Source\PSoC6</v>
+<v>SeniorDesign\I2C_LIS3DH</v>
+<v>SeniorDesign\I2C_LIS3DH\TopDesign</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Pins</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Analog</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\DMA</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Clocks</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Interrupts</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\System</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Directives</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\ARM GCC Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\ARM IAR Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\ARM MDK Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Header Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM MDK Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Header Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files\cyapicallbacks.h</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files\system_psoc6.h</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6</v>
+<v>SeniorDesign\Interupt\TopDesign</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr\Pins</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr\Analog</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr\DMA</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr\Clocks</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr\Interrupts</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr\System</v>
+<v>SeniorDesign\Interupt\Interupt.cydwr\Directives</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\ARM GCC Generic</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\ARM IAR Generic</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\ARM MDK Generic</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Header Files</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>SeniorDesign\Interupt\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\ARM MDK Generic</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Header Files</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>SeniorDesign\Interupt\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>SeniorDesign\Interupt\Shared Files</v>
+<v>SeniorDesign\Interupt\Shared Files\cyapicallbacks.h</v>
+<v>SeniorDesign\Interupt\Shared Files\system_psoc6.h</v>
+<v>SeniorDesign\Interupt\Generated_Source</v>
+<v>SeniorDesign\Interupt\Generated_Source\PSoC6</v>
+<v>SeniorDesign\Printf\TopDesign</v>
+<v>SeniorDesign\Printf\Printf.cydwr</v>
+<v>SeniorDesign\Printf\Printf.cydwr\Pins</v>
+<v>SeniorDesign\Printf\Printf.cydwr\Analog</v>
+<v>SeniorDesign\Printf\Printf.cydwr\DMA</v>
+<v>SeniorDesign\Printf\Printf.cydwr\Clocks</v>
+<v>SeniorDesign\Printf\Printf.cydwr\Interrupts</v>
+<v>SeniorDesign\Printf\Printf.cydwr\System</v>
+<v>SeniorDesign\Printf\Printf.cydwr\Directives</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\ARM GCC Generic</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\ARM IAR Generic</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\ARM MDK Generic</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Header Files</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>SeniorDesign\Printf\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\ARM MDK Generic</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Header Files</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>SeniorDesign\Printf\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>SeniorDesign\Printf\Shared Files</v>
+<v>SeniorDesign\Printf\Shared Files\cyapicallbacks.h</v>
+<v>SeniorDesign\Printf\Shared Files\stdio_user.c</v>
+<v>SeniorDesign\Printf\Shared Files\stdio_user.h</v>
+<v>SeniorDesign\Printf\Shared Files\system_psoc6.h</v>
+<v>SeniorDesign\Printf\Generated_Source</v>
+<v>SeniorDesign\Printf\Generated_Source\PSoC6</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky</v>
+<v>SeniorDesign\Debug</v>
+<v>SeniorDesign\I2C_LIS3DH</v>
+<v>SeniorDesign\I2C_LIS3DH\TopDesign</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Pins</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Analog</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\DMA</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Clocks</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Interrupts</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\System</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.cydwr\Directives</v>
+<v>SeniorDesign\I2C_LIS3DH\CM0p (Core 0)</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM MDK Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Header Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>SeniorDesign\I2C_LIS3DH\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files\cyapicallbacks.h</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files\stdio_user.c</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files\stdio_user.h</v>
+<v>SeniorDesign\I2C_LIS3DH\Shared Files\system_psoc6.h</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\pdl</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\Pins and Interrupts</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\SensorBus</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\SensorBus_SCBCLK</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\UART</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\UART_SCBCLK</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\cycodeshareexport.ld</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\cycodeshareimport.ld</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\cycodeshareimport.scat</v>
+<v>SeniorDesign\I2C_LIS3DH\Generated_Source\PSoC6\cydevice_trm.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky</v>
+<v>SeniorDesign\Blinky\TopDesign</v>
+<v>SeniorDesign\Blinky\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\Debug</v>
+<v>SeniorDesign\Debug\TopDesign</v>
+<v>SeniorDesign\Debug\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\I2C_LIS3DH</v>
+<v>SeniorDesign\I2C_LIS3DH\TopDesign</v>
+<v>SeniorDesign\I2C_LIS3DH\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\Interupt</v>
+<v>SeniorDesign\Interupt\TopDesign</v>
+<v>SeniorDesign\Interupt\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\Printf</v>
+<v>SeniorDesign\Printf\TopDesign</v>
+<v>SeniorDesign\Printf\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky</v>
+<v>SeniorDesign\Blinky\TopDesign</v>
+<v>SeniorDesign\Blinky\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\Debug</v>
+<v>SeniorDesign\Debug\TopDesign</v>
+<v>SeniorDesign\Debug\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\I2C_LIS3DH</v>
+<v>SeniorDesign\I2C_LIS3DH\TopDesign</v>
+<v>SeniorDesign\I2C_LIS3DH\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\Interupt</v>
+<v>SeniorDesign\Interupt\TopDesign</v>
+<v>SeniorDesign\Interupt\TopDesign\TopDesign.cysch</v>
+<v>SeniorDesign\Printf</v>
+<v>SeniorDesign\Printf\TopDesign</v>
+<v>SeniorDesign\Printf\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky</v>
+<v>SeniorDesign\Blinky\CortexM0p</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.elf</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.hex</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.map</v>
+<v>SeniorDesign\Blinky\CortexM4</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Blinky.elf</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Blinky.hex</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Blinky.map</v>
+<v>SeniorDesign\Blinky\Blinky.gpdsc</v>
+<v>SeniorDesign\Blinky\Blinky.rpt</v>
+<v>SeniorDesign\Blinky\Blinky_timing.html</v>
+<v>SeniorDesign\Debug</v>
+<v>SeniorDesign\Debug\CortexM0p</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Debug.elf</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Debug.hex</v>
+<v>SeniorDesign\Debug\CortexM0p\ARM_GCC_541\Debug\Debug.map</v>
+<v>SeniorDesign\Debug\CortexM4</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Debug.elf</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Debug.hex</v>
+<v>SeniorDesign\Debug\CortexM4\ARM_GCC_541\Debug\Debug.map</v>
+<v>SeniorDesign\Debug\Debug.gpdsc</v>
+<v>SeniorDesign\Debug\Debug.rpt</v>
+<v>SeniorDesign\Debug\Debug_timing.html</v>
+<v>SeniorDesign\I2C_LIS3DH</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\SensorBus.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\I2C_LIS3DH.elf</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\I2C_LIS3DH.hex</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM0p\ARM_GCC_541\Debug\I2C_LIS3DH.map</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\SensorBus.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\I2C_LIS3DH.elf</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\I2C_LIS3DH.hex</v>
+<v>SeniorDesign\I2C_LIS3DH\CortexM4\ARM_GCC_541\Debug\I2C_LIS3DH.map</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.gpdsc</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH.rpt</v>
+<v>SeniorDesign\I2C_LIS3DH\I2C_LIS3DH_timing.html</v>
+<v>SeniorDesign\Interupt</v>
+<v>SeniorDesign\Interupt\CortexM0p</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Interupt.elf</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Interupt.hex</v>
+<v>SeniorDesign\Interupt\CortexM0p\ARM_GCC_541\Debug\Interupt.map</v>
+<v>SeniorDesign\Interupt\CortexM4</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Interupt.elf</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Interupt.hex</v>
+<v>SeniorDesign\Interupt\CortexM4\ARM_GCC_541\Debug\Interupt.map</v>
+<v>SeniorDesign\Interupt\Interupt.gpdsc</v>
+<v>SeniorDesign\Interupt\Interupt.rpt</v>
+<v>SeniorDesign\Interupt\Interupt_timing.html</v>
+<v>SeniorDesign\Printf</v>
+<v>SeniorDesign\Printf\CortexM0p</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Printf.elf</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Printf.hex</v>
+<v>SeniorDesign\Printf\CortexM0p\ARM_GCC_541\Debug\Printf.map</v>
+<v>SeniorDesign\Printf\CortexM4</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Printf.elf</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Printf.hex</v>
+<v>SeniorDesign\Printf\CortexM4\ARM_GCC_541\Debug\Printf.map</v>
+<v>SeniorDesign\Printf\Printf.gpdsc</v>
+<v>SeniorDesign\Printf\Printf.rpt</v>
+<v>SeniorDesign\Printf\Printf_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky</v>
+<v>SeniorDesign\Blinky\CortexM0p</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.elf</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.hex</v>
+<v>SeniorDesign\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.map</v>
+<v>SeniorDesign\Blinky\CortexM4</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SeniorDesign\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky</v>
+<v>SeniorDesign\Blinky\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Blinky\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Blinky\Peripheral Driver Library</v>
+<v>SeniorDesign\Blinky\System Reference Guides</v>
+<v>SeniorDesign\Blinky\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\Blinky\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\Blinky\not_v1_0.pdf</v>
+<v>SeniorDesign\Debug</v>
+<v>SeniorDesign\Debug\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Debug\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Debug\Peripheral Driver Library</v>
+<v>SeniorDesign\Debug\System Reference Guides</v>
+<v>SeniorDesign\I2C_LIS3DH</v>
+<v>SeniorDesign\I2C_LIS3DH\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\I2C_LIS3DH\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\I2C_LIS3DH\Peripheral Driver Library</v>
+<v>SeniorDesign\I2C_LIS3DH\System Reference Guides</v>
+<v>SeniorDesign\I2C_LIS3DH\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\I2C_LIS3DH\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\I2C_LIS3DH\SCB_I2C_PDL_v2_0.pdf</v>
+<v>SeniorDesign\I2C_LIS3DH\SCB_UART_PDL_v2_0.pdf</v>
+<v>SeniorDesign\Interupt</v>
+<v>SeniorDesign\Interupt\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Interupt\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Interupt\Peripheral Driver Library</v>
+<v>SeniorDesign\Interupt\System Reference Guides</v>
+<v>SeniorDesign\Interupt\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\Interupt\SysInt_PDL_v1_0.pdf</v>
+<v>SeniorDesign\Printf</v>
+<v>SeniorDesign\Printf\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Printf\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Printf\Peripheral Driver Library</v>
+<v>SeniorDesign\Printf\System Reference Guides</v>
+<v>SeniorDesign\Printf\SCB_UART_PDL_v2_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SeniorDesign</v>
+<v>SeniorDesign\Blinky</v>
+<v>SeniorDesign\Blinky\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Blinky\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Blinky\Peripheral Driver Library</v>
+<v>SeniorDesign\Blinky\System Reference Guides</v>
+<v>SeniorDesign\Blinky\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\Blinky\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\Blinky\not_v1_0.pdf</v>
+<v>SeniorDesign\Debug</v>
+<v>SeniorDesign\Debug\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Debug\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Debug\Peripheral Driver Library</v>
+<v>SeniorDesign\Debug\System Reference Guides</v>
+<v>SeniorDesign\I2C_LIS3DH</v>
+<v>SeniorDesign\I2C_LIS3DH\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\I2C_LIS3DH\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\I2C_LIS3DH\Peripheral Driver Library</v>
+<v>SeniorDesign\I2C_LIS3DH\System Reference Guides</v>
+<v>SeniorDesign\I2C_LIS3DH\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\I2C_LIS3DH\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\I2C_LIS3DH\SCB_I2C_PDL_v2_0.pdf</v>
+<v>SeniorDesign\I2C_LIS3DH\SCB_UART_PDL_v2_0.pdf</v>
+<v>SeniorDesign\Interupt</v>
+<v>SeniorDesign\Interupt\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Interupt\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Interupt\Peripheral Driver Library</v>
+<v>SeniorDesign\Interupt\System Reference Guides</v>
+<v>SeniorDesign\Interupt\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\Interupt\SysInt_PDL_v1_0.pdf</v>
+<v>SeniorDesign\Printf</v>
+<v>SeniorDesign\Printf\PSoC 6 Architecture TRM</v>
+<v>SeniorDesign\Printf\PSoC 63 Family Datasheet</v>
+<v>SeniorDesign\Printf\Peripheral Driver Library</v>
+<v>SeniorDesign\Printf\System Reference Guides</v>
+<v>SeniorDesign\Printf\SCB_UART_PDL_v2_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\I2C_LIS3DH.cydsn\main_cm4.c" />
+<name v=".\I2C_LIS3DH.cydsn\stdio_user.h" />
+<name v=".\I2C_LIS3DH.cydsn\main_cm0p.c" />
+<name v=".\I2C_LIS3DH.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\I2C_LIS3DH.cydsn\I2C_LIS3DH.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1333, 710" SelectedTabbedMdiWindow="12339c36-d192-4eda-a2a5-2405475254e5"><DocumentWindow Key="C:\Users\aasulaim\Desktop\PSoC Creator_1\SeniorDesign\I2C_LIS3DH.cydsn\main_cm4.c" Guid="5bdcc683-0038-4c8a-bf31-82fb924f9661" /><DocumentWindow Key="C:\Users\aasulaim\Desktop\PSoC Creator_1\SeniorDesign\I2C_LIS3DH.cydsn\stdio_user.h" Guid="12339c36-d192-4eda-a2a5-2405475254e5" /><DocumentWindow Key="C:\Users\aasulaim\Desktop\PSoC Creator_1\SeniorDesign\I2C_LIS3DH.cydsn\main_cm0p.c" Guid="c8da3ace-4cc5-45c0-8bb2-1fec059fb84c" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="3ce36311-7db6-46de-90ec-bc2486f8f60a" /><DocumentWindow Key="C:\Users\aasulaim\Desktop\PSoC Creator_1\SeniorDesign\I2C_LIS3DH.cydsn\TopDesign\TopDesign.cysch" Guid="2c57b031-2a60-4698-9561-ae8d9b829473" /><DocumentWindow Key="C:\Users\aasulaim\Desktop\PSoC Creator_1\SeniorDesign\I2C_LIS3DH.cydsn\I2C_LIS3DH.cydwr" Guid="f14319dd-68c0-4d92-99d5-55a099ba0b32" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
