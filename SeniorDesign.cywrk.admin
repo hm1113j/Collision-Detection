@@ -117,6 +117,20 @@
 <v>SeniorDesign\UltraSonic\Generated_Source\PSoC6</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\DMA</v>
+<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\Clocks</v>
+<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\Interrupts</v>
+<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\System</v>
+<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\Directives</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM GCC Generic</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM IAR Generic</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM MDK Generic</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\Header Files</v>
+<v>SeniorDesign\UltraSonic\CM0p (Core 0)\Source Files</v>
 <v>SeniorDesign\UltraSonic\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
 <v>SeniorDesign\UltraSonic\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
 <v>SeniorDesign\UltraSonic\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
@@ -131,20 +145,6 @@
 <v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM IAR Generic</v>
 <v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
 <v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM MDK Generic</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Header Files</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\main_cm4.c</v>
-<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
-<v>SeniorDesign\UltraSonic\Shared Files</v>
-<v>SeniorDesign\UltraSonic\Shared Files\cyapicallbacks.h</v>
-<v>SeniorDesign\UltraSonic\Shared Files\stdio_user.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SeniorDesign">
@@ -293,12 +293,18 @@
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Trigger.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Trigger_1.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Trigger_2.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Trigger_3.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\SensorBus.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\Timer_Echo.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\Timer_Echo_1.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\Timer_Echo_2.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\Timer_Echo_3.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\UltraSonic.elf</v>
 <v>SeniorDesign\UltraSonic\CortexM0p\ARM_GCC_541\Debug\UltraSonic.hex</v>
@@ -339,12 +345,18 @@
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\PWM_Trigger.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\PWM_Trigger_1.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\PWM_Trigger_2.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\PWM_Trigger_3.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\SensorBus.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\Timer_Echo.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\Timer_Echo_1.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\Timer_Echo_2.lst</v>
+<v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\Timer_Echo_3.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\UltraSonic.elf</v>
 <v>SeniorDesign\UltraSonic\CortexM4\ARM_GCC_541\Debug\UltraSonic.hex</v>
@@ -395,24 +407,11 @@
 <v>SeniorDesign\DecelerationDetection\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\DecelerationDetection\Peripheral Driver Library</v>
 <v>SeniorDesign\DecelerationDetection\System Reference Guides</v>
-<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0</v>
-<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
-<v>SeniorDesign\DecelerationDetection\SCB_I2C_PDL_v2_0.pdf</v>
-<v>SeniorDesign\DecelerationDetection\SCB_UART_PDL_v2_0.pdf</v>
 <v>SeniorDesign\UltraSonic</v>
 <v>SeniorDesign\UltraSonic\PSoC 6 Architecture TRM</v>
 <v>SeniorDesign\UltraSonic\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\UltraSonic\Peripheral Driver Library</v>
 <v>SeniorDesign\UltraSonic\System Reference Guides</v>
-<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0</v>
-<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SCB_I2C_PDL_v2_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SCB_UART_PDL_v2_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0</v>
-<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0\SysClk_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SysInt_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\TCPWM_Counter_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\TCPWM_PWM_PDL_v1_0.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>SeniorDesign</v>
@@ -421,24 +420,11 @@
 <v>SeniorDesign\DecelerationDetection\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\DecelerationDetection\Peripheral Driver Library</v>
 <v>SeniorDesign\DecelerationDetection\System Reference Guides</v>
-<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0</v>
-<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
-<v>SeniorDesign\DecelerationDetection\SCB_I2C_PDL_v2_0.pdf</v>
-<v>SeniorDesign\DecelerationDetection\SCB_UART_PDL_v2_0.pdf</v>
 <v>SeniorDesign\UltraSonic</v>
 <v>SeniorDesign\UltraSonic\PSoC 6 Architecture TRM</v>
 <v>SeniorDesign\UltraSonic\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\UltraSonic\Peripheral Driver Library</v>
 <v>SeniorDesign\UltraSonic\System Reference Guides</v>
-<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0</v>
-<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SCB_I2C_PDL_v2_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SCB_UART_PDL_v2_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0</v>
-<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0\SysClk_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\SysInt_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\TCPWM_Counter_PDL_v1_0.pdf</v>
-<v>SeniorDesign\UltraSonic\TCPWM_PWM_PDL_v1_0.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -453,17 +439,12 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\DecelerationDetection.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\DecelerationDetection.cydsn\main_cm0p.c" />
-<name v=".\DecelerationDetection.cydsn\DecelerationDetection.cydwr" />
-<name v=".\DecelerationDetection.cydsn\main_cm4.c" />
-<name v=".\DecelerationDetection.cydsn\stdio_user.c" />
-<name v=".\DecelerationDetection.cydsn\stdio_user.h" />
 <name v=".\UltraSonic.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\UltraSonic.cydsn\main_cm0p.c" />
-<name v=".\UltraSonic.cydsn\main_cm4.c" />
-<name v=".\UltraSonic.cydsn\Generated_Source\PSoC6\project.h" />
 <name v=".\UltraSonic.cydsn\UltraSonic.cydwr" />
+<name v=".\UltraSonic.cydsn\main_cm0p.c" />
+<name v=".\UltraSonic.cydsn\system_psoc6_cm0plus.c" />
+<name v=".\UltraSonic.cydsn\Generated_Source\PSoC6\cyfitter_sysint_cfg.h" />
+<name v=".\UltraSonic.cydsn\main_cm4.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -471,7 +452,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1042, 351" SelectedTabbedMdiWindow="c61a748e-00f5-4df9-a2c9-5f0b2bc99b1e"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="aeacf494-cb79-4841-bb05-26723bded5a8" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\TopDesign\TopDesign.cysch" Guid="cfaf62e7-af4a-4722-80ce-bce64b38f8d0" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\main_cm0p.c" Guid="f4f4f423-0c15-44a2-8d17-852a0f13b9cc" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\DecelerationDetection.cydwr" Guid="650249c7-fac3-404c-9c91-deb106992f52" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\main_cm4.c" Guid="ba2b500a-2a3e-4918-9798-2a2cd6cc6b45" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\stdio_user.c" Guid="85ae0ca8-f121-4ab6-9ad5-e6047b5470f6" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\stdio_user.h" Guid="549ff5ef-0d6b-4057-9c75-8343a8c1118c" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\UltraSonic.cydsn\TopDesign\TopDesign.cysch" Guid="01a46dda-1828-4561-b4ca-68fd9136df12" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\UltraSonic.cydsn\main_cm0p.c" Guid="c61a748e-00f5-4df9-a2c9-5f0b2bc99b1e" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\UltraSonic.cydsn\main_cm4.c" Guid="7dfd8700-87af-4330-a325-1f44fd7d3d98" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\UltraSonic.cydsn\Generated_Source\PSoC6\project.h" Guid="e4582d0d-e121-4efe-84c2-ca870eb046fa" /><DocumentWindow Key="C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\UltraSonic.cydsn\UltraSonic.cydwr" Guid="48d7754a-0a2c-4856-87a8-94bec4a084bb" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1042, 351" SelectedTabbedMdiWindow="4eb2fe3e-331b-480b-b42e-9f49db431188"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="aeacf494-cb79-4841-bb05-26723bded5a8" /><DocumentWindow Key="C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\TopDesign\TopDesign.cysch" Guid="e2929563-13a1-434d-b15e-a5b81f348143" /><DocumentWindow Key="C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\UltraSonic.cydwr" Guid="10d73f0b-b2b0-4969-b66e-59613ee2a916" /><DocumentWindow Key="C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\main_cm0p.c" Guid="4eb2fe3e-331b-480b-b42e-9f49db431188" /><DocumentWindow Key="C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\system_psoc6_cm0plus.c" Guid="a68227ad-0e19-4844-bab6-873b0731cbc3" /><DocumentWindow Key="C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\Generated_Source\PSoC6\cyfitter_sysint_cfg.h" Guid="4ef7c30a-1fd4-4ce0-a6aa-30fb4d1dee3c" /><DocumentWindow Key="C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\main_cm4.c" Guid="7ad0d55d-f63c-42fd-a3d9-09b818c73b0c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

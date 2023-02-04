@@ -1,7 +1,7 @@
-C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\DecelerationDetection.cyprj|86921eb3-34ff-45e7-b623-fa347b2698f8
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8d7d329d-73e8-477f-92a1-3564a5c661b6
-C:\Users\admin\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|76282aba-1fd1-4f9d-9e35-55029ce1c63b
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|485b95e5-e2c5-45e5-a80d-fdc29c883f72
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5c35fe2e-a34d-411d-a5ac-2622997a1db2
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ab103b04-f372-46a7-bd26-6635bad8fa77
-C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\UltraSonic.cydsn\UltraSonic.cyprj|47cd3c0b-e235-4de3-91f9-645f855bcd14
+C:\Users\admin\Desktop\EV car\DecelerationDetection.cydsn\DecelerationDetection.cyprj|7d6d48e2-42d5-4dc3-9da6-8b21293b72e0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|561199f6-5c40-409b-b71d-c5d9844a9a50
+C:\Users\admin\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|e25be0dc-5790-4052-a074-78e32af9dd7d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fa0b3df3-a657-44a8-8b0c-7c9f69c7dd9e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a49c3f92-09af-42d4-9ad3-d65d3051f230
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|53d72cd7-3d27-49b6-a508-7745dda3107b
+C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\UltraSonic.cyprj|0cb29303-2e96-4c0b-a6a9-65b20d4a4f65

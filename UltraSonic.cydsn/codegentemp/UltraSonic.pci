@@ -1,5 +1,5 @@
 # UltraSonic
-# 2023-01-27 18:09:56Z
+# 2023-02-03 19:02:17Z
 
 dont_use_location SMIF -1 -1 0
 dont_use_location p4usbcell -1 -1 0
@@ -8,5 +8,12 @@ dont_use_location usbcell -1 -1 0
 set_location "ClockGenBlock" CLK_GEN -1 -1 0
 set_io "CY_CPUSS_SWJ_SWCLK_TCLK(0)" iocell 6 7
 set_io "CY_CPUSS_SWJ_SWDIO_TMS(0)" iocell 6 6
-set_io "Echo(0)" iocell 10 3
-set_io "Trigger(0)" iocell 10 2
+set_io "Echo(0)" iocell 10 0
+set_io "Trigger(0)" iocell 10 1
+set_io "Trigger_1(0)" iocell 10 2
+set_io "Echo_1(0)" iocell 10 3
+set_io "Echo_2(0)" iocell 5 6
+set_io "Echo_3(0)" iocell 5 4
+set_io "Trigger_2(0)" iocell 5 5
+set_io "Trigger_3(0)" iocell 5 3
+set_io "RED(0)" iocell 10 4

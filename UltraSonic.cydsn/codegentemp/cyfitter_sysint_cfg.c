@@ -34,11 +34,32 @@
         .intrPriority = SensorBus_SCB_IRQ__INTC_CORTEXM0P_PRIORITY
     };
 
+    /* Timer_Echo_1_Int */
+    const cy_stc_sysint_t Timer_Echo_1_Int_cfg = {
+        .intrSrc = (IRQn_Type)Timer_Echo_1_Int__INTC_CORTEXM0P_MUX,
+        .cm0pSrc = (cy_en_intr_t)Timer_Echo_1_Int__INTC_NUMBER,
+        .intrPriority = Timer_Echo_1_Int__INTC_CORTEXM0P_PRIORITY
+    };
+
     /* Timer_Echo_Int */
     const cy_stc_sysint_t Timer_Echo_Int_cfg = {
         .intrSrc = (IRQn_Type)Timer_Echo_Int__INTC_CORTEXM0P_MUX,
         .cm0pSrc = (cy_en_intr_t)Timer_Echo_Int__INTC_NUMBER,
         .intrPriority = Timer_Echo_Int__INTC_CORTEXM0P_PRIORITY
+    };
+
+    /* Timer_Echo_3_Int */
+    const cy_stc_sysint_t Timer_Echo_3_Int_cfg = {
+        .intrSrc = (IRQn_Type)Timer_Echo_3_Int__INTC_CORTEXM0P_MUX,
+        .cm0pSrc = (cy_en_intr_t)Timer_Echo_3_Int__INTC_NUMBER,
+        .intrPriority = Timer_Echo_3_Int__INTC_CORTEXM0P_PRIORITY
+    };
+
+    /* Timer_Echo_2_Int */
+    const cy_stc_sysint_t Timer_Echo_2_Int_cfg = {
+        .intrSrc = (IRQn_Type)Timer_Echo_2_Int__INTC_CORTEXM0P_MUX,
+        .cm0pSrc = (cy_en_intr_t)Timer_Echo_2_Int__INTC_NUMBER,
+        .intrPriority = Timer_Echo_2_Int__INTC_CORTEXM0P_PRIORITY
     };
 
 #endif /* ((__CORTEX_M == 0) && (CY_CORE_ID == 0)) */

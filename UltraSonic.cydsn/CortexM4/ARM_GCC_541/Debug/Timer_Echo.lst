@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
   27:Generated_Source\PSoC6/Timer_Echo.c **** *  associated Timer_Echo_Init() function.
   28:Generated_Source\PSoC6/Timer_Echo.c **** */ 
   29:Generated_Source\PSoC6/Timer_Echo.c **** cy_stc_tcpwm_counter_config_t const Timer_Echo_config =
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 2
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 2
 
 
   30:Generated_Source\PSoC6/Timer_Echo.c **** {
@@ -115,10 +115,10 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
   69:Generated_Source\PSoC6/Timer_Echo.c ****         (void)Cy_TCPWM_Counter_Init(Timer_Echo_HW, Timer_Echo_CNT_NUM, &Timer_Echo_config); 
   41              		.loc 1 69 0
   42 0008 064A     		ldr	r2, .L4+4
-  43 000a 0021     		movs	r1, #0
+  43 000a 0421     		movs	r1, #4
   44 000c 0648     		ldr	r0, .L4+8
   45 000e FFF7FEFF 		bl	Cy_TCPWM_Counter_Init
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 3
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 3
 
 
   46              	.LVL0:
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
   43:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * The TCPWM supports three operating modes:
   44:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * * Timer/Counter
   45:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * * PWM
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 4
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 4
 
 
   46:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * * Quadrature Decoder
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  100:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * an object (for example a rotating axle, or a spinning mouse ball). 
  101:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * A quadrature decoder can also be used for precision measurement of speed, 
  102:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * acceleration, and position of a motor's rotor, or with a rotary switch to 
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 5
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 5
 
 
  103:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * determine user input. \n
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  157:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * \subsection group_tcpwm_clock Assign Clock Divider
  158:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * The clock source must be connected to proper working.
  159:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * Any of the peripheral clock dividers could be used. Use the  
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 6
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 6
 
 
  160:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * \ref group_sysclk driver API to do that.
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  214:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** * </table>
  215:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** */
  216:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** 
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 7
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 7
 
 
  217:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** /** \} group_tcpwm */
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  271:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** ******************************************************************************/
  272:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** 
  273:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** /** TCPWM driver identifier */
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 8
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 8
 
 
  274:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** #define CY_TCPWM_ID                     (CY_PDL_DRV_ID(0x2DU))
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  328:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** /***************************************
  329:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** *        Registers Constants
  330:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** ***************************************/
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 9
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 9
 
 
  331:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  385:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** 
  386:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** __STATIC_INLINE void Cy_TCPWM_Enable_Multiple(TCPWM_Type *base, uint32_t counters);
  387:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** __STATIC_INLINE void Cy_TCPWM_Disable_Multiple(TCPWM_Type *base, uint32_t counters);
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 10
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 10
 
 
  388:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** __STATIC_INLINE void Cy_TCPWM_TriggerStart(TCPWM_Type *base, uint32_t counters);
@@ -574,7 +574,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  418:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h **** {
  419:Generated_Source\PSoC6\pdl\drivers/peripheral/tcpwm/cy_tcpwm.h ****     TCPWM_CTRL_SET(base) = counters;
   56              		.loc 2 419 0
-  57 0018 0122     		movs	r2, #1
+  57 0018 1022     		movs	r2, #16
   58 001a 034B     		ldr	r3, .L4+8
   59 001c 9A60     		str	r2, [r3, #8]
   60              	.LVL2:
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
   78              		.type	Timer_Echo_config, %object
   79              		.size	Timer_Echo_config, 76
   80              	Timer_Echo_config:
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 11
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 11
 
 
   81 0000 FFFF0000 		.word	65535
@@ -642,10 +642,10 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  119 0006 00000000 		.4byte	.Ldebug_abbrev0
  120 000a 04       		.byte	0x4
  121 000b 01       		.uleb128 0x1
- 122 000c AF030000 		.4byte	.LASF71
+ 122 000c 9A030000 		.4byte	.LASF71
  123 0010 0C       		.byte	0xc
  124 0011 AB000000 		.4byte	.LASF72
- 125 0015 2D020000 		.4byte	.LASF73
+ 125 0015 E7000000 		.4byte	.LASF73
  126 0019 00000000 		.4byte	.Ldebug_ranges0+0
  127 001d 00000000 		.4byte	0
  128 0021 00000000 		.4byte	.Ldebug_line0
@@ -656,32 +656,32 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  133 002c 02       		.uleb128 0x2
  134 002d 01       		.byte	0x1
  135 002e 06       		.byte	0x6
- 136 002f 21020000 		.4byte	.LASF1
+ 136 002f 47020000 		.4byte	.LASF1
  137 0033 03       		.uleb128 0x3
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 12
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 12
 
 
- 138 0034 9F010000 		.4byte	.LASF4
+ 138 0034 C5010000 		.4byte	.LASF4
  139 0038 03       		.byte	0x3
  140 0039 1D       		.byte	0x1d
  141 003a 3E000000 		.4byte	0x3e
  142 003e 02       		.uleb128 0x2
  143 003f 01       		.byte	0x1
  144 0040 08       		.byte	0x8
- 145 0041 F4010000 		.4byte	.LASF2
+ 145 0041 1A020000 		.4byte	.LASF2
  146 0045 02       		.uleb128 0x2
  147 0046 02       		.byte	0x2
  148 0047 07       		.byte	0x7
- 149 0048 E5020000 		.4byte	.LASF3
+ 149 0048 D0020000 		.4byte	.LASF3
  150 004c 03       		.uleb128 0x3
- 151 004d 86030000 		.4byte	.LASF5
+ 151 004d 71030000 		.4byte	.LASF5
  152 0051 03       		.byte	0x3
  153 0052 3F       		.byte	0x3f
  154 0053 57000000 		.4byte	0x57
  155 0057 02       		.uleb128 0x2
  156 0058 04       		.byte	0x4
  157 0059 05       		.byte	0x5
- 158 005a FD020000 		.4byte	.LASF6
+ 158 005a E8020000 		.4byte	.LASF6
  159 005e 03       		.uleb128 0x3
  160 005f CF000000 		.4byte	.LASF7
  161 0063 03       		.byte	0x3
@@ -690,15 +690,15 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  164 0069 02       		.uleb128 0x2
  165 006a 04       		.byte	0x4
  166 006b 07       		.byte	0x7
- 167 006c 46030000 		.4byte	.LASF8
+ 167 006c 31030000 		.4byte	.LASF8
  168 0070 02       		.uleb128 0x2
  169 0071 08       		.byte	0x8
  170 0072 05       		.byte	0x5
- 171 0073 59010000 		.4byte	.LASF9
+ 171 0073 7F010000 		.4byte	.LASF9
  172 0077 02       		.uleb128 0x2
  173 0078 08       		.byte	0x8
  174 0079 07       		.byte	0x7
- 175 007a 71020000 		.4byte	.LASF10
+ 175 007a 5C020000 		.4byte	.LASF10
  176 007e 04       		.uleb128 0x4
  177 007f 04       		.byte	0x4
  178 0080 05       		.byte	0x5
@@ -706,22 +706,22 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  180 0085 02       		.uleb128 0x2
  181 0086 04       		.byte	0x4
  182 0087 07       		.byte	0x7
- 183 0088 3C010000 		.4byte	.LASF11
+ 183 0088 62010000 		.4byte	.LASF11
  184 008c 03       		.uleb128 0x3
- 185 008d FE000000 		.4byte	.LASF12
+ 185 008d 24010000 		.4byte	.LASF12
  186 0091 04       		.byte	0x4
  187 0092 18       		.byte	0x18
  188 0093 33000000 		.4byte	0x33
  189 0097 03       		.uleb128 0x3
- 190 0098 97010000 		.4byte	.LASF13
+ 190 0098 BD010000 		.4byte	.LASF13
  191 009c 04       		.byte	0x4
  192 009d 2C       		.byte	0x2c
  193 009e 4C000000 		.4byte	0x4c
  194 00a2 03       		.uleb128 0x3
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 13
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 13
 
 
- 195 00a3 88020000 		.4byte	.LASF14
+ 195 00a3 73020000 		.4byte	.LASF14
  196 00a7 04       		.byte	0x4
  197 00a8 30       		.byte	0x30
  198 00a9 5E000000 		.4byte	0x5e
@@ -739,19 +739,19 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  210 00c1 22       		.byte	0x22
  211 00c2 86010000 		.4byte	0x186
  212 00c6 08       		.uleb128 0x8
- 213 00c7 11020000 		.4byte	.LASF16
+ 213 00c7 37020000 		.4byte	.LASF16
  214 00cb 05       		.byte	0x5
  215 00cc 23       		.byte	0x23
  216 00cd B4000000 		.4byte	0xb4
  217 00d1 00       		.byte	0
  218 00d2 08       		.uleb128 0x8
- 219 00d3 06030000 		.4byte	.LASF17
+ 219 00d3 F1020000 		.4byte	.LASF17
  220 00d7 05       		.byte	0x5
  221 00d8 24       		.byte	0x24
  222 00d9 B9000000 		.4byte	0xb9
  223 00dd 04       		.byte	0x4
  224 00de 08       		.uleb128 0x8
- 225 00df A7030000 		.4byte	.LASF18
+ 225 00df 92030000 		.4byte	.LASF18
  226 00e3 05       		.byte	0x5
  227 00e4 25       		.byte	0x25
  228 00e5 B4000000 		.4byte	0xb4
@@ -763,7 +763,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  234 00f0 B4000000 		.4byte	0xb4
  235 00f4 0C       		.byte	0xc
  236 00f5 08       		.uleb128 0x8
- 237 00f6 D1010000 		.4byte	.LASF19
+ 237 00f6 F7010000 		.4byte	.LASF19
  238 00fa 05       		.byte	0x5
  239 00fb 27       		.byte	0x27
  240 00fc B4000000 		.4byte	0xb4
@@ -778,19 +778,19 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  249 010e 4F000000 		.4byte	.LASF21
  250 0112 05       		.byte	0x5
  251 0113 29       		.byte	0x29
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 14
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 14
 
 
  252 0114 B4000000 		.4byte	0xb4
  253 0118 18       		.byte	0x18
  254 0119 08       		.uleb128 0x8
- 255 011a 62040000 		.4byte	.LASF22
+ 255 011a 4D040000 		.4byte	.LASF22
  256 011e 05       		.byte	0x5
  257 011f 2A       		.byte	0x2a
  258 0120 B9000000 		.4byte	0xb9
  259 0124 1C       		.byte	0x1c
  260 0125 08       		.uleb128 0x8
- 261 0126 E7000000 		.4byte	.LASF23
+ 261 0126 53010000 		.4byte	.LASF23
  262 012a 05       		.byte	0x5
  263 012b 2B       		.byte	0x2b
  264 012c B4000000 		.4byte	0xb4
@@ -808,37 +808,37 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  276 0144 B4000000 		.4byte	0xb4
  277 0148 28       		.byte	0x28
  278 0149 08       		.uleb128 0x8
- 279 014a 29030000 		.4byte	.LASF26
+ 279 014a 14030000 		.4byte	.LASF26
  280 014e 05       		.byte	0x5
  281 014f 2E       		.byte	0x2e
  282 0150 B9000000 		.4byte	0xb9
  283 0154 2C       		.byte	0x2c
  284 0155 08       		.uleb128 0x8
- 285 0156 13030000 		.4byte	.LASF27
+ 285 0156 FE020000 		.4byte	.LASF27
  286 015a 05       		.byte	0x5
  287 015b 2F       		.byte	0x2f
  288 015c B4000000 		.4byte	0xb4
  289 0160 30       		.byte	0x30
  290 0161 08       		.uleb128 0x8
- 291 0162 2D010000 		.4byte	.LASF28
+ 291 0162 53020000 		.4byte	.LASF28
  292 0166 05       		.byte	0x5
  293 0167 30       		.byte	0x30
  294 0168 B4000000 		.4byte	0xb4
  295 016c 34       		.byte	0x34
  296 016d 08       		.uleb128 0x8
- 297 016e DB020000 		.4byte	.LASF29
+ 297 016e C6020000 		.4byte	.LASF29
  298 0172 05       		.byte	0x5
  299 0173 31       		.byte	0x31
  300 0174 B4000000 		.4byte	0xb4
  301 0178 38       		.byte	0x38
  302 0179 08       		.uleb128 0x8
- 303 017a C5010000 		.4byte	.LASF30
+ 303 017a EB010000 		.4byte	.LASF30
  304 017e 05       		.byte	0x5
  305 017f 32       		.byte	0x32
  306 0180 B9000000 		.4byte	0xb9
  307 0184 3C       		.byte	0x3c
  308 0185 00       		.byte	0
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 15
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 15
 
 
  309 0186 03       		.uleb128 0x3
@@ -852,13 +852,13 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  317 0195 38       		.byte	0x38
  318 0196 14020000 		.4byte	0x214
  319 019a 08       		.uleb128 0x8
- 320 019b 11020000 		.4byte	.LASF16
+ 320 019b 37020000 		.4byte	.LASF16
  321 019f 05       		.byte	0x5
  322 01a0 39       		.byte	0x39
  323 01a1 B4000000 		.4byte	0xb4
  324 01a5 00       		.byte	0
  325 01a6 08       		.uleb128 0x8
- 326 01a7 9E030000 		.4byte	.LASF32
+ 326 01a7 89030000 		.4byte	.LASF32
  327 01ab 05       		.byte	0x5
  328 01ac 3A       		.byte	0x3a
  329 01ad B4000000 		.4byte	0xb4
@@ -870,7 +870,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  335 01b9 B4000000 		.4byte	0xb4
  336 01bd 08       		.byte	0x8
  337 01be 08       		.uleb128 0x8
- 338 01bf 06010000 		.4byte	.LASF34
+ 338 01bf 2C010000 		.4byte	.LASF34
  339 01c3 05       		.byte	0x5
  340 01c4 3C       		.byte	0x3c
  341 01c5 B4000000 		.4byte	0xb4
@@ -882,28 +882,28 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  347 01d1 B4000000 		.4byte	0xb4
  348 01d5 10       		.byte	0x10
  349 01d6 08       		.uleb128 0x8
- 350 01d7 B4020000 		.4byte	.LASF36
+ 350 01d7 9F020000 		.4byte	.LASF36
  351 01db 05       		.byte	0x5
  352 01dc 3E       		.byte	0x3e
  353 01dd B4000000 		.4byte	0xb4
  354 01e1 14       		.byte	0x14
  355 01e2 08       		.uleb128 0x8
- 356 01e3 23010000 		.4byte	.LASF37
+ 356 01e3 49010000 		.4byte	.LASF37
  357 01e7 05       		.byte	0x5
  358 01e8 3F       		.byte	0x3f
  359 01e9 B4000000 		.4byte	0xb4
  360 01ed 18       		.byte	0x18
  361 01ee 08       		.uleb128 0x8
- 362 01ef 16020000 		.4byte	.LASF38
+ 362 01ef 3C020000 		.4byte	.LASF38
  363 01f3 05       		.byte	0x5
  364 01f4 40       		.byte	0x40
  365 01f5 B9000000 		.4byte	0xb9
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 16
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 16
 
 
  366 01f9 1C       		.byte	0x1c
  367 01fa 08       		.uleb128 0x8
- 368 01fb 62040000 		.4byte	.LASF22
+ 368 01fb 4D040000 		.4byte	.LASF22
  369 01ff 05       		.byte	0x5
  370 0200 41       		.byte	0x41
  371 0201 29020000 		.4byte	0x229
@@ -934,42 +934,42 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  396 023c 1F       		.byte	0x1f
  397 023d 00       		.byte	0
  398 023e 03       		.uleb128 0x3
- 399 023f F0000000 		.4byte	.LASF39
+ 399 023f 16010000 		.4byte	.LASF39
  400 0243 05       		.byte	0x5
  401 0244 43       		.byte	0x43
  402 0245 91010000 		.4byte	0x191
  403 0249 0E       		.uleb128 0xe
- 404 024a 91040000 		.4byte	.LASF40
+ 404 024a 7C040000 		.4byte	.LASF40
  405 024e 06       		.byte	0x6
  406 024f 4206     		.2byte	0x642
  407 0251 3E020000 		.4byte	0x23e
  408 0255 02       		.uleb128 0x2
  409 0256 08       		.byte	0x8
  410 0257 04       		.byte	0x4
- 411 0258 D9010000 		.4byte	.LASF41
+ 411 0258 FF010000 		.4byte	.LASF41
  412 025c 02       		.uleb128 0x2
  413 025d 01       		.byte	0x1
  414 025e 08       		.byte	0x8
- 415 025f F8020000 		.4byte	.LASF42
+ 415 025f E3020000 		.4byte	.LASF42
  416 0263 02       		.uleb128 0x2
  417 0264 04       		.byte	0x4
  418 0265 04       		.byte	0x4
- 419 0266 36010000 		.4byte	.LASF43
+ 419 0266 5C010000 		.4byte	.LASF43
  420 026a 02       		.uleb128 0x2
  421 026b 08       		.byte	0x8
  422 026c 04       		.byte	0x4
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 17
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 17
 
 
- 423 026d 58030000 		.4byte	.LASF44
+ 423 026d 43030000 		.4byte	.LASF44
  424 0271 0F       		.uleb128 0xf
- 425 0272 5F030000 		.4byte	.LASF74
+ 425 0272 4A030000 		.4byte	.LASF74
  426 0276 4C       		.byte	0x4c
  427 0277 07       		.byte	0x7
  428 0278 2F       		.byte	0x2f
  429 0279 62030000 		.4byte	0x362
  430 027d 08       		.uleb128 0x8
- 431 027e 90010000 		.4byte	.LASF45
+ 431 027e B6010000 		.4byte	.LASF45
  432 0282 07       		.byte	0x7
  433 0283 31       		.byte	0x31
  434 0284 A2000000 		.4byte	0xa2
@@ -981,19 +981,19 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  440 0290 A2000000 		.4byte	0xa2
  441 0294 04       		.byte	0x4
  442 0295 08       		.uleb128 0x8
- 443 0296 67010000 		.4byte	.LASF47
+ 443 0296 8D010000 		.4byte	.LASF47
  444 029a 07       		.byte	0x7
  445 029b 34       		.byte	0x34
  446 029c A2000000 		.4byte	0xa2
  447 02a0 08       		.byte	0x8
  448 02a1 08       		.uleb128 0x8
- 449 02a2 02020000 		.4byte	.LASF48
+ 449 02a2 28020000 		.4byte	.LASF48
  450 02a6 07       		.byte	0x7
  451 02a7 35       		.byte	0x35
  452 02a8 A2000000 		.4byte	0xa2
  453 02ac 0C       		.byte	0xc
  454 02ad 08       		.uleb128 0x8
- 455 02ae 91020000 		.4byte	.LASF49
+ 455 02ae 7C020000 		.4byte	.LASF49
  456 02b2 07       		.byte	0x7
  457 02b3 37       		.byte	0x37
  458 02b4 A2000000 		.4byte	0xa2
@@ -1011,14 +1011,14 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  470 02cc A2000000 		.4byte	0xa2
  471 02d0 18       		.byte	0x18
  472 02d1 08       		.uleb128 0x8
- 473 02d2 A2020000 		.4byte	.LASF52
+ 473 02d2 8D020000 		.4byte	.LASF52
  474 02d6 07       		.byte	0x7
  475 02d7 3A       		.byte	0x3a
  476 02d8 62030000 		.4byte	0x362
  477 02dc 1C       		.byte	0x1c
  478 02dd 08       		.uleb128 0x8
- 479 02de 12010000 		.4byte	.LASF53
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 18
+ 479 02de 38010000 		.4byte	.LASF53
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 18
 
 
  480 02e2 07       		.byte	0x7
@@ -1026,7 +1026,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  482 02e4 A2000000 		.4byte	0xa2
  483 02e8 20       		.byte	0x20
  484 02e9 08       		.uleb128 0x8
- 485 02ea 18030000 		.4byte	.LASF54
+ 485 02ea 03030000 		.4byte	.LASF54
  486 02ee 07       		.byte	0x7
  487 02ef 3D       		.byte	0x3d
  488 02f0 A2000000 		.4byte	0xa2
@@ -1038,7 +1038,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  494 02fc A2000000 		.4byte	0xa2
  495 0300 28       		.byte	0x28
  496 0301 08       		.uleb128 0x8
- 497 0302 49010000 		.4byte	.LASF56
+ 497 0302 6F010000 		.4byte	.LASF56
  498 0306 07       		.byte	0x7
  499 0307 40       		.byte	0x40
  500 0308 A2000000 		.4byte	0xa2
@@ -1050,25 +1050,25 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  506 0314 A2000000 		.4byte	0xa2
  507 0318 30       		.byte	0x30
  508 0319 08       		.uleb128 0x8
- 509 031a E5010000 		.4byte	.LASF58
+ 509 031a 0B020000 		.4byte	.LASF58
  510 031e 07       		.byte	0x7
  511 031f 43       		.byte	0x43
  512 0320 A2000000 		.4byte	0xa2
  513 0324 34       		.byte	0x34
  514 0325 08       		.uleb128 0x8
- 515 0326 7B030000 		.4byte	.LASF59
+ 515 0326 66030000 		.4byte	.LASF59
  516 032a 07       		.byte	0x7
  517 032b 45       		.byte	0x45
  518 032c A2000000 		.4byte	0xa2
  519 0330 38       		.byte	0x38
  520 0331 08       		.uleb128 0x8
- 521 0332 90030000 		.4byte	.LASF60
+ 521 0332 7B030000 		.4byte	.LASF60
  522 0336 07       		.byte	0x7
  523 0337 46       		.byte	0x46
  524 0338 A2000000 		.4byte	0xa2
  525 033c 3C       		.byte	0x3c
  526 033d 08       		.uleb128 0x8
- 527 033e A9010000 		.4byte	.LASF61
+ 527 033e CF010000 		.4byte	.LASF61
  528 0342 07       		.byte	0x7
  529 0343 48       		.byte	0x48
  530 0344 A2000000 		.4byte	0xa2
@@ -1078,12 +1078,12 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  534 034e 07       		.byte	0x7
  535 034f 49       		.byte	0x49
  536 0350 A2000000 		.4byte	0xa2
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 19
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 19
 
 
  537 0354 44       		.byte	0x44
  538 0355 08       		.uleb128 0x8
- 539 0356 85010000 		.4byte	.LASF63
+ 539 0356 AB010000 		.4byte	.LASF63
  540 035a 07       		.byte	0x7
  541 035b 4B       		.byte	0x4b
  542 035c A2000000 		.4byte	0xa2
@@ -1092,25 +1092,25 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  545 0362 02       		.uleb128 0x2
  546 0363 01       		.byte	0x1
  547 0364 02       		.byte	0x2
- 548 0365 0D030000 		.4byte	.LASF64
+ 548 0365 F8020000 		.4byte	.LASF64
  549 0369 03       		.uleb128 0x3
- 550 036a BD020000 		.4byte	.LASF65
+ 550 036a A8020000 		.4byte	.LASF65
  551 036e 07       		.byte	0x7
  552 036f 4C       		.byte	0x4c
  553 0370 71020000 		.4byte	0x271
  554 0374 10       		.uleb128 0x10
- 555 0375 6B040000 		.4byte	.LASF75
+ 555 0375 56040000 		.4byte	.LASF75
  556 0379 02       		.byte	0x2
  557 037a A101     		.2byte	0x1a1
  558 037c 03       		.byte	0x3
  559 037d 9A030000 		.4byte	0x39a
  560 0381 11       		.uleb128 0x11
- 561 0382 9C040000 		.4byte	.LASF66
+ 561 0382 87040000 		.4byte	.LASF66
  562 0386 02       		.byte	0x2
  563 0387 A101     		.2byte	0x1a1
  564 0389 9A030000 		.4byte	0x39a
  565 038d 11       		.uleb128 0x11
- 566 038e A1040000 		.4byte	.LASF67
+ 566 038e 8C040000 		.4byte	.LASF67
  567 0392 02       		.byte	0x2
  568 0393 A101     		.2byte	0x1a1
  569 0395 A2000000 		.4byte	0xa2
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  591 03c9 8D030000 		.4byte	0x38d
  592 03cd 00000000 		.4byte	.LLST0
  593 03d1 15       		.uleb128 0x15
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 20
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 20
 
 
  594 03d2 81030000 		.4byte	0x381
@@ -1157,7 +1157,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  607 03ee 01       		.uleb128 0x1
  608 03ef 51       		.byte	0x51
  609 03f0 01       		.uleb128 0x1
- 610 03f1 30       		.byte	0x30
+ 610 03f1 34       		.byte	0x34
  611 03f2 17       		.uleb128 0x17
  612 03f3 01       		.uleb128 0x1
  613 03f4 52       		.byte	0x52
@@ -1167,14 +1167,14 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  617 03fb 00       		.byte	0
  618 03fc 00       		.byte	0
  619 03fd 18       		.uleb128 0x18
- 620 03fe 84040000 		.4byte	.LASF68
+ 620 03fe 6F040000 		.4byte	.LASF68
  621 0402 08       		.byte	0x8
  622 0403 F907     		.2byte	0x7f9
  623 0405 09040000 		.4byte	0x409
  624 0409 05       		.uleb128 0x5
  625 040a 97000000 		.4byte	0x97
  626 040e 19       		.uleb128 0x19
- 627 040f 33030000 		.4byte	.LASF69
+ 627 040f 1E030000 		.4byte	.LASF69
  628 0413 01       		.byte	0x1
  629 0414 18       		.byte	0x18
  630 0415 8C000000 		.4byte	0x8c
@@ -1182,7 +1182,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  632 041a 03       		.byte	0x3
  633 041b 00000000 		.4byte	Timer_Echo_initVar
  634 041f 19       		.uleb128 0x19
- 635 0420 B3010000 		.4byte	.LASF70
+ 635 0420 D9010000 		.4byte	.LASF70
  636 0424 01       		.byte	0x1
  637 0425 1D       		.byte	0x1d
  638 0426 30040000 		.4byte	0x430
@@ -1192,13 +1192,13 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  642 0430 06       		.uleb128 0x6
  643 0431 69030000 		.4byte	0x369
  644 0435 1A       		.uleb128 0x1a
- 645 0436 6F010000 		.4byte	.LASF77
- 646 043a 6F010000 		.4byte	.LASF77
+ 645 0436 95010000 		.4byte	.LASF77
+ 646 043a 95010000 		.4byte	.LASF77
  647 043e 07       		.byte	0x7
  648 043f 91       		.byte	0x91
  649 0440 00       		.byte	0
  650              		.section	.debug_abbrev,"",%progbits
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 21
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 21
 
 
  651              	.Ldebug_abbrev0:
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  705 0035 00       		.byte	0
  706 0036 05       		.uleb128 0x5
  707 0037 35       		.uleb128 0x35
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 22
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 22
 
 
  708 0038 00       		.byte	0
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  762 006e 00       		.byte	0
  763 006f 0A       		.uleb128 0xa
  764 0070 13       		.uleb128 0x13
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 23
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 23
 
 
  765 0071 01       		.byte	0x1
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  819 00a7 13       		.uleb128 0x13
  820 00a8 00       		.byte	0
  821 00a9 00       		.byte	0
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 24
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 24
 
 
  822 00aa 0F       		.uleb128 0xf
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  876 00e0 13       		.uleb128 0x13
  877 00e1 2E       		.uleb128 0x2e
  878 00e2 01       		.byte	0x1
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 25
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 25
 
 
  879 00e3 3F       		.uleb128 0x3f
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  933 011c 13       		.uleb128 0x13
  934 011d 00       		.byte	0
  935 011e 00       		.byte	0
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 26
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 26
 
 
  936 011f 17       		.uleb128 0x17
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  990 0158 3A       		.uleb128 0x3a
  991 0159 0B       		.uleb128 0xb
  992 015a 3B       		.uleb128 0x3b
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 27
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 27
 
 
  993 015b 0B       		.uleb128 0xb
@@ -1571,7 +1571,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  1000 0000 18000000 		.4byte	.LVL1
  1001 0004 1E000000 		.4byte	.LVL2
  1002 0008 0200     		.2byte	0x2
- 1003 000a 31       		.byte	0x31
+ 1003 000a 40       		.byte	0x40
  1004 000b 9F       		.byte	0x9f
  1005 000c 00000000 		.4byte	0
  1006 0010 00000000 		.4byte	0
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  1040      6B507265 
  1040      7363616C 
  1040      657200
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 28
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 28
 
 
  1041              	.LASF62:
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  1066      74617274 
  1066      00
  1067              	.LASF72:
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 29
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 29
 
 
  1068 00ab 47656E65 		.ascii	"Generated_Source\\PSoC6\\Timer_Echo.c\000"
@@ -1695,304 +1695,300 @@ ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 1
  1072      75726549 
  1072      6E707574 
  1072      00
- 1073              	.LASF23:
- 1074 00e7 54525F43 		.ascii	"TR_CTRL0\000"
- 1074      54524C30 
- 1074      00
- 1075              	.LASF39:
- 1076 00f0 54435057 		.ascii	"TCPWM_V1_Type\000"
- 1076      4D5F5631 
- 1076      5F547970 
- 1076      6500
- 1077              	.LASF12:
- 1078 00fe 75696E74 		.ascii	"uint8_t\000"
- 1078      385F7400 
- 1079              	.LASF34:
- 1080 0106 434D445F 		.ascii	"CMD_CAPTURE\000"
- 1080      43415054 
- 1080      55524500 
- 1081              	.LASF53:
- 1082 0112 696E7465 		.ascii	"interruptSources\000"
- 1082      72727570 
- 1082      74536F75 
- 1082      72636573 
- 1082      00
- 1083              	.LASF37:
- 1084 0123 434D445F 		.ascii	"CMD_START\000"
- 1084      53544152 
- 1084      5400
- 1085              	.LASF28:
- 1086 012d 494E5452 		.ascii	"INTR_SET\000"
- 1086      5F534554 
- 1086      00
- 1087              	.LASF43:
- 1088 0136 666C6F61 		.ascii	"float\000"
- 1088      7400
- 1089              	.LASF11:
- 1090 013c 756E7369 		.ascii	"unsigned int\000"
- 1090      676E6564 
- 1090      20696E74 
- 1090      00
- 1091              	.LASF56:
- 1092 0149 72656C6F 		.ascii	"reloadInputMode\000"
- 1092      6164496E 
- 1092      7075744D 
- 1092      6F646500 
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 30
+ 1073              	.LASF73:
+ 1074 00e7 433A5C55 		.ascii	"C:\\Users\\admin\\Desktop\\EV car\\UltraSonic.cydsn"
+ 1074      73657273 
+ 1074      5C61646D 
+ 1074      696E5C44 
+ 1074      65736B74 
+ 1075 0115 00       		.ascii	"\000"
+ 1076              	.LASF39:
+ 1077 0116 54435057 		.ascii	"TCPWM_V1_Type\000"
+ 1077      4D5F5631 
+ 1077      5F547970 
+ 1077      6500
+ 1078              	.LASF12:
+ 1079 0124 75696E74 		.ascii	"uint8_t\000"
+ 1079      385F7400 
+ 1080              	.LASF34:
+ 1081 012c 434D445F 		.ascii	"CMD_CAPTURE\000"
+ 1081      43415054 
+ 1081      55524500 
+ 1082              	.LASF53:
+ 1083 0138 696E7465 		.ascii	"interruptSources\000"
+ 1083      72727570 
+ 1083      74536F75 
+ 1083      72636573 
+ 1083      00
+ 1084              	.LASF37:
+ 1085 0149 434D445F 		.ascii	"CMD_START\000"
+ 1085      53544152 
+ 1085      5400
+ 1086              	.LASF23:
+ 1087 0153 54525F43 		.ascii	"TR_CTRL0\000"
+ 1087      54524C30 
+ 1087      00
+ 1088              	.LASF43:
+ 1089 015c 666C6F61 		.ascii	"float\000"
+ 1089      7400
+ 1090              	.LASF11:
+ 1091 0162 756E7369 		.ascii	"unsigned int\000"
+ 1091      676E6564 
+ 1091      20696E74 
+ 1091      00
+ 1092              	.LASF56:
+ 1093 016f 72656C6F 		.ascii	"reloadInputMode\000"
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 30
 
 
- 1093              	.LASF9:
- 1094 0159 6C6F6E67 		.ascii	"long long int\000"
- 1094      206C6F6E 
- 1094      6720696E 
- 1094      7400
- 1095              	.LASF47:
- 1096 0167 72756E4D 		.ascii	"runMode\000"
- 1096      6F646500 
- 1097              	.LASF77:
- 1098 016f 43795F54 		.ascii	"Cy_TCPWM_Counter_Init\000"
- 1098      4350574D 
- 1098      5F436F75 
- 1098      6E746572 
- 1098      5F496E69 
- 1099              	.LASF63:
- 1100 0185 636F756E 		.ascii	"countInput\000"
- 1100      74496E70 
- 1100      757400
- 1101              	.LASF45:
- 1102 0190 70657269 		.ascii	"period\000"
- 1102      6F6400
- 1103              	.LASF13:
- 1104 0197 696E7433 		.ascii	"int32_t\000"
- 1104      325F7400 
- 1105              	.LASF4:
- 1106 019f 5F5F7569 		.ascii	"__uint8_t\000"
- 1106      6E74385F 
- 1106      7400
- 1107              	.LASF61:
- 1108 01a9 73746F70 		.ascii	"stopInput\000"
- 1108      496E7075 
- 1108      7400
- 1109              	.LASF70:
- 1110 01b3 54696D65 		.ascii	"Timer_Echo_config\000"
- 1110      725F4563 
- 1110      686F5F63 
- 1110      6F6E6669 
- 1110      6700
- 1111              	.LASF30:
- 1112 01c5 494E5452 		.ascii	"INTR_MASKED\000"
- 1112      5F4D4153 
- 1112      4B454400 
- 1113              	.LASF19:
- 1114 01d1 43435F42 		.ascii	"CC_BUFF\000"
- 1114      55464600 
- 1115              	.LASF41:
- 1116 01d9 6C6F6E67 		.ascii	"long double\000"
- 1116      20646F75 
- 1116      626C6500 
- 1117              	.LASF58:
- 1118 01e5 73746172 		.ascii	"startInputMode\000"
- 1118      74496E70 
- 1118      75744D6F 
- 1118      646500
- 1119              	.LASF2:
- 1120 01f4 756E7369 		.ascii	"unsigned char\000"
- 1120      676E6564 
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 31
+ 1093      6164496E 
+ 1093      7075744D 
+ 1093      6F646500 
+ 1094              	.LASF9:
+ 1095 017f 6C6F6E67 		.ascii	"long long int\000"
+ 1095      206C6F6E 
+ 1095      6720696E 
+ 1095      7400
+ 1096              	.LASF47:
+ 1097 018d 72756E4D 		.ascii	"runMode\000"
+ 1097      6F646500 
+ 1098              	.LASF77:
+ 1099 0195 43795F54 		.ascii	"Cy_TCPWM_Counter_Init\000"
+ 1099      4350574D 
+ 1099      5F436F75 
+ 1099      6E746572 
+ 1099      5F496E69 
+ 1100              	.LASF63:
+ 1101 01ab 636F756E 		.ascii	"countInput\000"
+ 1101      74496E70 
+ 1101      757400
+ 1102              	.LASF45:
+ 1103 01b6 70657269 		.ascii	"period\000"
+ 1103      6F6400
+ 1104              	.LASF13:
+ 1105 01bd 696E7433 		.ascii	"int32_t\000"
+ 1105      325F7400 
+ 1106              	.LASF4:
+ 1107 01c5 5F5F7569 		.ascii	"__uint8_t\000"
+ 1107      6E74385F 
+ 1107      7400
+ 1108              	.LASF61:
+ 1109 01cf 73746F70 		.ascii	"stopInput\000"
+ 1109      496E7075 
+ 1109      7400
+ 1110              	.LASF70:
+ 1111 01d9 54696D65 		.ascii	"Timer_Echo_config\000"
+ 1111      725F4563 
+ 1111      686F5F63 
+ 1111      6F6E6669 
+ 1111      6700
+ 1112              	.LASF30:
+ 1113 01eb 494E5452 		.ascii	"INTR_MASKED\000"
+ 1113      5F4D4153 
+ 1113      4B454400 
+ 1114              	.LASF19:
+ 1115 01f7 43435F42 		.ascii	"CC_BUFF\000"
+ 1115      55464600 
+ 1116              	.LASF41:
+ 1117 01ff 6C6F6E67 		.ascii	"long double\000"
+ 1117      20646F75 
+ 1117      626C6500 
+ 1118              	.LASF58:
+ 1119 020b 73746172 		.ascii	"startInputMode\000"
+ 1119      74496E70 
+ 1119      75744D6F 
+ 1119      646500
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 31
 
 
- 1120      20636861 
- 1120      7200
- 1121              	.LASF48:
- 1122 0202 636F756E 		.ascii	"countDirection\000"
- 1122      74446972 
- 1122      65637469 
- 1122      6F6E00
- 1123              	.LASF16:
- 1124 0211 4354524C 		.ascii	"CTRL\000"
- 1124      00
- 1125              	.LASF38:
- 1126 0216 494E5452 		.ascii	"INTR_CAUSE\000"
- 1126      5F434155 
- 1126      534500
- 1127              	.LASF1:
- 1128 0221 7369676E 		.ascii	"signed char\000"
- 1128      65642063 
- 1128      68617200 
- 1129              	.LASF73:
- 1130 022d 433A5C55 		.ascii	"C:\\Users\\admin\\Desktop\\PSoC Creator_1\\SeniorDe"
- 1130      73657273 
- 1130      5C61646D 
- 1130      696E5C44 
- 1130      65736B74 
- 1131 025b 7369676E 		.ascii	"sign\\UltraSonic.cydsn\000"
- 1131      5C556C74 
- 1131      7261536F 
- 1131      6E69632E 
- 1131      63796473 
+ 1120              	.LASF2:
+ 1121 021a 756E7369 		.ascii	"unsigned char\000"
+ 1121      676E6564 
+ 1121      20636861 
+ 1121      7200
+ 1122              	.LASF48:
+ 1123 0228 636F756E 		.ascii	"countDirection\000"
+ 1123      74446972 
+ 1123      65637469 
+ 1123      6F6E00
+ 1124              	.LASF16:
+ 1125 0237 4354524C 		.ascii	"CTRL\000"
+ 1125      00
+ 1126              	.LASF38:
+ 1127 023c 494E5452 		.ascii	"INTR_CAUSE\000"
+ 1127      5F434155 
+ 1127      534500
+ 1128              	.LASF1:
+ 1129 0247 7369676E 		.ascii	"signed char\000"
+ 1129      65642063 
+ 1129      68617200 
+ 1130              	.LASF28:
+ 1131 0253 494E5452 		.ascii	"INTR_SET\000"
+ 1131      5F534554 
+ 1131      00
  1132              	.LASF10:
- 1133 0271 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1133 025c 6C6F6E67 		.ascii	"long long unsigned int\000"
  1133      206C6F6E 
  1133      6720756E 
  1133      7369676E 
  1133      65642069 
  1134              	.LASF14:
- 1135 0288 75696E74 		.ascii	"uint32_t\000"
+ 1135 0273 75696E74 		.ascii	"uint32_t\000"
  1135      33325F74 
  1135      00
  1136              	.LASF49:
- 1137 0291 636F6D70 		.ascii	"compareOrCapture\000"
+ 1137 027c 636F6D70 		.ascii	"compareOrCapture\000"
  1137      6172654F 
  1137      72436170 
  1137      74757265 
  1137      00
  1138              	.LASF52:
- 1139 02a2 656E6162 		.ascii	"enableCompareSwap\000"
+ 1139 028d 656E6162 		.ascii	"enableCompareSwap\000"
  1139      6C65436F 
  1139      6D706172 
  1139      65537761 
  1139      7000
  1140              	.LASF36:
- 1141 02b4 434D445F 		.ascii	"CMD_STOP\000"
+ 1141 029f 434D445F 		.ascii	"CMD_STOP\000"
  1141      53544F50 
  1141      00
  1142              	.LASF65:
- 1143 02bd 63795F73 		.ascii	"cy_stc_tcpwm_counter_config_t\000"
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 32
-
-
+ 1143 02a8 63795F73 		.ascii	"cy_stc_tcpwm_counter_config_t\000"
  1143      74635F74 
  1143      6370776D 
  1143      5F636F75 
  1143      6E746572 
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 32
+
+
  1144              	.LASF29:
- 1145 02db 494E5452 		.ascii	"INTR_MASK\000"
+ 1145 02c6 494E5452 		.ascii	"INTR_MASK\000"
  1145      5F4D4153 
  1145      4B00
  1146              	.LASF3:
- 1147 02e5 73686F72 		.ascii	"short unsigned int\000"
+ 1147 02d0 73686F72 		.ascii	"short unsigned int\000"
  1147      7420756E 
  1147      7369676E 
  1147      65642069 
  1147      6E7400
  1148              	.LASF42:
- 1149 02f8 63686172 		.ascii	"char\000"
+ 1149 02e3 63686172 		.ascii	"char\000"
  1149      00
  1150              	.LASF6:
- 1151 02fd 6C6F6E67 		.ascii	"long int\000"
+ 1151 02e8 6C6F6E67 		.ascii	"long int\000"
  1151      20696E74 
  1151      00
  1152              	.LASF17:
- 1153 0306 53544154 		.ascii	"STATUS\000"
+ 1153 02f1 53544154 		.ascii	"STATUS\000"
  1153      555300
  1154              	.LASF64:
- 1155 030d 5F426F6F 		.ascii	"_Bool\000"
+ 1155 02f8 5F426F6F 		.ascii	"_Bool\000"
  1155      6C00
  1156              	.LASF27:
- 1157 0313 494E5452 		.ascii	"INTR\000"
+ 1157 02fe 494E5452 		.ascii	"INTR\000"
  1157      00
  1158              	.LASF54:
- 1159 0318 63617074 		.ascii	"captureInputMode\000"
+ 1159 0303 63617074 		.ascii	"captureInputMode\000"
  1159      75726549 
  1159      6E707574 
  1159      4D6F6465 
  1159      00
  1160              	.LASF26:
- 1161 0329 52455345 		.ascii	"RESERVED1\000"
+ 1161 0314 52455345 		.ascii	"RESERVED1\000"
  1161      52564544 
  1161      3100
  1162              	.LASF69:
- 1163 0333 54696D65 		.ascii	"Timer_Echo_initVar\000"
+ 1163 031e 54696D65 		.ascii	"Timer_Echo_initVar\000"
  1163      725F4563 
  1163      686F5F69 
  1163      6E697456 
  1163      617200
  1164              	.LASF8:
- 1165 0346 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1165 0331 6C6F6E67 		.ascii	"long unsigned int\000"
  1165      20756E73 
  1165      69676E65 
  1165      6420696E 
  1165      7400
  1166              	.LASF44:
- 1167 0358 646F7562 		.ascii	"double\000"
+ 1167 0343 646F7562 		.ascii	"double\000"
  1167      6C6500
  1168              	.LASF74:
- 1169 035f 63795F73 		.ascii	"cy_stc_tcpwm_counter_config\000"
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 33
-
-
+ 1169 034a 63795F73 		.ascii	"cy_stc_tcpwm_counter_config\000"
  1169      74635F74 
  1169      6370776D 
  1169      5F636F75 
  1169      6E746572 
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 33
+
+
  1170              	.LASF59:
- 1171 037b 73746172 		.ascii	"startInput\000"
+ 1171 0366 73746172 		.ascii	"startInput\000"
  1171      74496E70 
  1171      757400
  1172              	.LASF5:
- 1173 0386 5F5F696E 		.ascii	"__int32_t\000"
+ 1173 0371 5F5F696E 		.ascii	"__int32_t\000"
  1173      7433325F 
  1173      7400
  1174              	.LASF60:
- 1175 0390 73746F70 		.ascii	"stopInputMode\000"
+ 1175 037b 73746F70 		.ascii	"stopInputMode\000"
  1175      496E7075 
  1175      744D6F64 
  1175      6500
  1176              	.LASF32:
- 1177 039e 4354524C 		.ascii	"CTRL_CLR\000"
+ 1177 0389 4354524C 		.ascii	"CTRL_CLR\000"
  1177      5F434C52 
  1177      00
  1178              	.LASF18:
- 1179 03a7 434F554E 		.ascii	"COUNTER\000"
+ 1179 0392 434F554E 		.ascii	"COUNTER\000"
  1179      54455200 
  1180              	.LASF71:
- 1181 03af 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1181 039a 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
  1181      43313120 
  1181      352E342E 
  1181      31203230 
  1181      31363036 
- 1182 03e2 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m4 -mfloat-abi=s"
+ 1182 03cd 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m4 -mfloat-abi=s"
  1182      20726576 
  1182      6973696F 
  1182      6E203233 
  1182      37373135 
- 1183 0415 6F667466 		.ascii	"oftfp -mfpu=fpv4-sp-d16 -mthumb -g -Og -ffunction-s"
+ 1183 0400 6F667466 		.ascii	"oftfp -mfpu=fpv4-sp-d16 -mthumb -g -Og -ffunction-s"
  1183      70202D6D 
  1183      6670753D 
  1183      66707634 
  1183      2D73702D 
- 1184 0448 65637469 		.ascii	"ections -ffat-lto-objects\000"
+ 1184 0433 65637469 		.ascii	"ections -ffat-lto-objects\000"
  1184      6F6E7320 
  1184      2D666661 
  1184      742D6C74 
  1184      6F2D6F62 
  1185              	.LASF22:
- 1186 0462 52455345 		.ascii	"RESERVED\000"
+ 1186 044d 52455345 		.ascii	"RESERVED\000"
  1186      52564544 
  1186      00
  1187              	.LASF75:
- 1188 046b 43795F54 		.ascii	"Cy_TCPWM_Enable_Multiple\000"
+ 1188 0456 43795F54 		.ascii	"Cy_TCPWM_Enable_Multiple\000"
  1188      4350574D 
  1188      5F456E61 
  1188      626C655F 
  1188      4D756C74 
  1189              	.LASF68:
- 1190 0484 49544D5F 		.ascii	"ITM_RxBuffer\000"
-ARM GAS  C:\Users\admin\AppData\Local\Temp\ccEbn8DJ.s 			page 34
-
-
+ 1190 046f 49544D5F 		.ascii	"ITM_RxBuffer\000"
  1190      52784275 
  1190      66666572 
  1190      00
  1191              	.LASF40:
- 1192 0491 54435057 		.ascii	"TCPWM_Type\000"
+ARM GAS  C:\Users\admin\AppData\Local\Temp\ccsXTvww.s 			page 34
+
+
+ 1192 047c 54435057 		.ascii	"TCPWM_Type\000"
  1192      4D5F5479 
  1192      706500
  1193              	.LASF66:
- 1194 049c 62617365 		.ascii	"base\000"
+ 1194 0487 62617365 		.ascii	"base\000"
  1194      00
  1195              	.LASF67:
- 1196 04a1 636F756E 		.ascii	"counters\000"
+ 1196 048c 636F756E 		.ascii	"counters\000"
  1196      74657273 
  1196      00
  1197              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

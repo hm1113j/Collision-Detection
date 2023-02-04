@@ -27,8 +27,17 @@
     #define SensorBus_SCB_IRQ__INTC_ASSIGNED 1u
     extern const cy_stc_sysint_t SensorBus_SCB_IRQ_cfg;
 
+    #define Timer_Echo_1_Int__INTC_ASSIGNED 1u
+    extern const cy_stc_sysint_t Timer_Echo_1_Int_cfg;
+
     #define Timer_Echo_Int__INTC_ASSIGNED 1u
     extern const cy_stc_sysint_t Timer_Echo_Int_cfg;
+
+    #define Timer_Echo_3_Int__INTC_ASSIGNED 1u
+    extern const cy_stc_sysint_t Timer_Echo_3_Int_cfg;
+
+    #define Timer_Echo_2_Int__INTC_ASSIGNED 1u
+    extern const cy_stc_sysint_t Timer_Echo_2_Int_cfg;
 
 #endif /* ((__CORTEX_M == 0) && (CY_CORE_ID == 0)) */
 

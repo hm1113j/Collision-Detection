@@ -32,11 +32,41 @@
 #define Timer_Echo_Int__INTC_CORTEXM0P_ASSIGNED 1
 #define Timer_Echo_Int__INTC_CORTEXM0P_MUX 8u
 #define Timer_Echo_Int__INTC_CORTEXM0P_PRIORITY 3u
-#define Timer_Echo_Int__INTC_NUMBER 90u
+#define Timer_Echo_Int__INTC_NUMBER 94u
 #define Timer_Echo_Int_INTC_CORTEXM0P_ASSIGNED 1
 #define Timer_Echo_Int_INTC_CORTEXM0P_MUX 8u
 #define Timer_Echo_Int_INTC_CORTEXM0P_PRIORITY 3u
-#define Timer_Echo_Int_INTC_NUMBER 90u
+#define Timer_Echo_Int_INTC_NUMBER 94u
+
+/* Timer_Echo_1_Int */
+#define Timer_Echo_1_Int__INTC_CORTEXM0P_ASSIGNED 1
+#define Timer_Echo_1_Int__INTC_CORTEXM0P_MUX 11u
+#define Timer_Echo_1_Int__INTC_CORTEXM0P_PRIORITY 3u
+#define Timer_Echo_1_Int__INTC_NUMBER 93u
+#define Timer_Echo_1_Int_INTC_CORTEXM0P_ASSIGNED 1
+#define Timer_Echo_1_Int_INTC_CORTEXM0P_MUX 11u
+#define Timer_Echo_1_Int_INTC_CORTEXM0P_PRIORITY 3u
+#define Timer_Echo_1_Int_INTC_NUMBER 93u
+
+/* Timer_Echo_2_Int */
+#define Timer_Echo_2_Int__INTC_CORTEXM0P_ASSIGNED 1
+#define Timer_Echo_2_Int__INTC_CORTEXM0P_MUX 12u
+#define Timer_Echo_2_Int__INTC_CORTEXM0P_PRIORITY 3u
+#define Timer_Echo_2_Int__INTC_NUMBER 96u
+#define Timer_Echo_2_Int_INTC_CORTEXM0P_ASSIGNED 1
+#define Timer_Echo_2_Int_INTC_CORTEXM0P_MUX 12u
+#define Timer_Echo_2_Int_INTC_CORTEXM0P_PRIORITY 3u
+#define Timer_Echo_2_Int_INTC_NUMBER 96u
+
+/* Timer_Echo_3_Int */
+#define Timer_Echo_3_Int__INTC_CORTEXM0P_ASSIGNED 1
+#define Timer_Echo_3_Int__INTC_CORTEXM0P_MUX 13u
+#define Timer_Echo_3_Int__INTC_CORTEXM0P_PRIORITY 3u
+#define Timer_Echo_3_Int__INTC_NUMBER 95u
+#define Timer_Echo_3_Int_INTC_CORTEXM0P_ASSIGNED 1
+#define Timer_Echo_3_Int_INTC_CORTEXM0P_MUX 13u
+#define Timer_Echo_3_Int_INTC_CORTEXM0P_PRIORITY 3u
+#define Timer_Echo_3_Int_INTC_NUMBER 95u
 
 /* SensorBus_SCB_IRQ */
 #define SensorBus_SCB_IRQ__INTC_CORTEXM0P_ASSIGNED 1
