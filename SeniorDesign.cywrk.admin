@@ -117,13 +117,6 @@
 <v>SeniorDesign\UltraSonic\Generated_Source\PSoC6</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\DMA</v>
-<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\Clocks</v>
-<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\Interrupts</v>
-<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\System</v>
-<v>SeniorDesign\UltraSonic\UltraSonic.cydwr\Directives</v>
-<v>SeniorDesign\UltraSonic\CM0p (Core 0)</v>
-<v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM GCC Generic</v>
 <v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
 <v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM IAR Generic</v>
 <v>SeniorDesign\UltraSonic\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
@@ -145,6 +138,13 @@
 <v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM IAR Generic</v>
 <v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
 <v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM MDK Generic</v>
+<v>SeniorDesign\UltraSonic\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Header Files</v>
+<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files</v>
+<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SeniorDesign\UltraSonic\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SeniorDesign">
@@ -407,11 +407,27 @@
 <v>SeniorDesign\DecelerationDetection\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\DecelerationDetection\Peripheral Driver Library</v>
 <v>SeniorDesign\DecelerationDetection\System Reference Guides</v>
+<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\DecelerationDetection\SCB_I2C_PDL_v2_0.pdf</v>
+<v>SeniorDesign\DecelerationDetection\SCB_UART_PDL_v2_0.pdf</v>
 <v>SeniorDesign\UltraSonic</v>
 <v>SeniorDesign\UltraSonic\PSoC 6 Architecture TRM</v>
 <v>SeniorDesign\UltraSonic\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\UltraSonic\Peripheral Driver Library</v>
 <v>SeniorDesign\UltraSonic\System Reference Guides</v>
+<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SCB_I2C_PDL_v2_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SCB_UART_PDL_v2_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0\SysClk_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SysInt_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\SysInt_PDL_v1_0\SysInt_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\TCPWM_Counter_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\TCPWM_Counter_PDL_v1_0\TCPWM_Counter_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\TCPWM_PWM_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\TCPWM_PWM_PDL_v1_0\TCPWM_PWM_PDL_v1_0.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>SeniorDesign</v>
@@ -420,11 +436,27 @@
 <v>SeniorDesign\DecelerationDetection\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\DecelerationDetection\Peripheral Driver Library</v>
 <v>SeniorDesign\DecelerationDetection\System Reference Guides</v>
+<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\DecelerationDetection\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\DecelerationDetection\SCB_I2C_PDL_v2_0.pdf</v>
+<v>SeniorDesign\DecelerationDetection\SCB_UART_PDL_v2_0.pdf</v>
 <v>SeniorDesign\UltraSonic</v>
 <v>SeniorDesign\UltraSonic\PSoC 6 Architecture TRM</v>
 <v>SeniorDesign\UltraSonic\PSoC 63 Family Datasheet</v>
 <v>SeniorDesign\UltraSonic\Peripheral Driver Library</v>
 <v>SeniorDesign\UltraSonic\System Reference Guides</v>
+<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SCB_I2C_PDL_v2_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SCB_UART_PDL_v2_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\SysClk_PDL_v1_0\SysClk_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\SysInt_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\SysInt_PDL_v1_0\SysInt_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\TCPWM_Counter_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\TCPWM_Counter_PDL_v1_0\TCPWM_Counter_PDL_v1_0.pdf</v>
+<v>SeniorDesign\UltraSonic\TCPWM_PWM_PDL_v1_0</v>
+<v>SeniorDesign\UltraSonic\TCPWM_PWM_PDL_v1_0\TCPWM_PWM_PDL_v1_0.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>

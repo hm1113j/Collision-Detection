@@ -20,6 +20,7 @@
 
 uint16_t duration, duration1, duration2, duration3 = 0;
 bool echo_flag = 0;
+double distance, distance1, distance2, distance3 = 0.0;
 double SoundSpeed = 0.0;
 char str[128]; /* buffer for first sensor */
 char str1[128]; /* buffer for second sensor */
@@ -82,10 +83,10 @@ void Timer_Int_Handler(){
     NVIC_DisableIRQ((IRQn_Type)Timer_Echo_2_Int_cfg.intrSrc);
     NVIC_DisableIRQ((IRQn_Type)Timer_Echo_3_Int_cfg.intrSrc);
 
-    duration = Timer_Echo_GetCapture(); // first sensor
-    duration1 = Timer_Echo_1_GetCapture(); // second sensor
-    duration2 = Timer_Echo_2_GetCapture(); // second sensor
-    duration3 = Timer_Echo_3_GetCapture(); // second sensor
+    duration = Timer_Echo_GetCapture(); // left sensor1
+    duration1 = Timer_Echo_1_GetCapture(); // left sensor2
+    duration2 = Timer_Echo_2_GetCapture(); // right sensor1
+    duration3 = Timer_Echo_3_GetCapture(); // right sensor2
     
     Timer_Echo_SetCounter(0);
     Timer_Echo_1_SetCounter(0);
@@ -108,13 +109,13 @@ void get_speed(){
 }
 
 void get_distance(uint32_t duration, uint32_t duration1, uint32_t duration2, uint32_t duration3){
-    double distance, distance1, distance2, distance3 = 0.0;
-    distance = (double)(duration) * SoundSpeed / 240000.0; // Distance from first sensor
-    distance1 = (double)(duration1) * SoundSpeed / 240000.0; // Distance from second sensor
-    distance2 = (double)(duration2) * SoundSpeed / 240000.0; // Distance from second sensor
-    distance3 = (double)(duration3) * SoundSpeed / 240000.0; // Distance from second sensor
+    distance = (double)(duration) * SoundSpeed / 240000.0; // Distance from left sensor1
+    distance1 = (double)(duration1) * SoundSpeed / 240000.0; // Distance from left sensor2
+    distance2 = (double)(duration2) * SoundSpeed / 240000.0; // Distance from right sensor1
+    distance3 = (double)(duration3) * SoundSpeed / 240000.0; // Distance from right sensor2
+}
 
-    
+void check_safeDistance()  {  
     if((distance < safeDistance) || (distance1 < safeDistance)){
         snprintf(str,30,"WARNING! : OBJECT LEFT \n\r");
         snprintf(str1,30,"WARNING! : OBJECT LEFT \n\r");
@@ -138,13 +139,6 @@ void get_distance(uint32_t duration, uint32_t duration1, uint32_t duration2, uin
         Cy_GPIO_Write(P10_4_PORT, P10_4_NUM, 0);
     }
 
-
-
-
-//    fflush(stdin); /* clear buffer */
-    
- // snprintf(str1,10,"%.2f\n\r", distance1);
-    
     UART_PutString(str);
     UART_PutString(str1);
     UART_PutString(str2);
@@ -193,6 +187,7 @@ int main(void){
             get_speed();
         if (echo_flag) {
             get_distance(duration,duration1,duration2,duration3);
+            check_safeDistance();
             echo_flag = 0;          
 
             NVIC_EnableIRQ((IRQn_Type)Timer_Echo_Int_cfg.intrSrc);
