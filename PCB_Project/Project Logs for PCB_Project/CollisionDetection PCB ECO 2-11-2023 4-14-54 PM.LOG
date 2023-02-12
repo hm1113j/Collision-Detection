@@ -1,0 +1,169 @@
+Added Component: Designator=C(CAPC1608X90)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "399-1281-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/kemet/C0603C104K3RACTU/399-1281-1-ND/416057?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104K3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104K3RACTU/KEMET/view-part/78674/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HP1(5HeaderPin)
+Added Component: Designator=HP2(5HeaderPin)
+Added Component: Designator=HP3(5HeaderPin)
+Added Component: Designator=HP4(5HeaderPin)
+Added Component: Designator=HP5(5HeaderPin)
+Added Component: Designator=R1(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XCVR_CYBLE-416045-02
+Added Component: Designator=U2(Tri-LED)
+Added Pin To Net: NetName=GND Pin=C-1
+Added Pin To Net: NetName=VDD Pin=C-2
+Added Pin To Net: NetName=VDD Pin=HP1-1
+Added Pin To Net: NetName=SWDCLK Pin=HP1-3
+Added Pin To Net: NetName=SWDIO Pin=HP1-4
+Added Pin To Net: NetName=RESET Pin=HP1-5
+Added Pin To Net: NetName=VB Pin=HP2-1
+Added Pin To Net: NetName=SDA Pin=HP2-2
+Added Pin To Net: NetName=SCL Pin=HP2-3
+Added Pin To Net: NetName=RX Pin=HP2-4
+Added Pin To Net: NetName=TX Pin=HP2-5
+Added Pin To Net: NetName=VR Pin=HP3-1
+Added Pin To Net: NetName=GPIO1 Pin=HP3-2
+Added Pin To Net: NetName=GPIO2 Pin=HP3-3
+Added Pin To Net: NetName=GPIO3 Pin=HP3-4
+Added Pin To Net: NetName=ADC_GPIO Pin=HP3-5
+Added Pin To Net: NetName=VDD Pin=HP4-1
+Added Pin To Net: NetName=SCL Pin=HP4-2
+Added Pin To Net: NetName=SDA Pin=HP4-3
+Added Pin To Net: NetName=P10.0 Pin=HP5-1
+Added Pin To Net: NetName=P10.1 Pin=HP5-2
+Added Pin To Net: NetName=P10.2 Pin=HP5-3
+Added Pin To Net: NetName=P10.3 Pin=HP5-4
+Added Pin To Net: NetName=P10.4 Pin=HP5-5
+Added Pin To Net: NetName=XRES Pin=R1-1
+Added Pin To Net: NetName=RESET Pin=R1-2
+Added Pin To Net: NetName=P5.1 Pin=R2-1
+Added Pin To Net: NetName=RX Pin=R2-2
+Added Pin To Net: NetName=P6.7 Pin=R3-1
+Added Pin To Net: NetName=SWDCLK Pin=R3-2
+Added Pin To Net: NetName=P5.0 Pin=R4-1
+Added Pin To Net: NetName=TX Pin=R4-2
+Added Pin To Net: NetName=P6.6 Pin=R5-1
+Added Pin To Net: NetName=SWDIO Pin=R5-2
+Added Pin To Net: NetName=SDA Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Pin To Net: NetName=VDD Pin=R7-2
+Added Pin To Net: NetName=SCL Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R9-1
+Added Pin To Net: NetName=VDD Pin=R9-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-25
+Add Pin To Net: Unknown Pin: Pin U1-26
+Add Pin To Net: Unknown Pin: Pin U1-27
+Add Pin To Net: Unknown Pin: Pin U1-29
+Add Pin To Net: Unknown Pin: Pin U1-32
+Add Pin To Net: Unknown Pin: Pin U1-33
+Add Pin To Net: Unknown Pin: Pin U1-34
+Add Pin To Net: Unknown Pin: Pin U1-35
+Add Pin To Net: Unknown Pin: Pin U1-36
+Add Pin To Net: Unknown Pin: Pin U1-37
+Add Pin To Net: Unknown Pin: Pin U1-39
+Add Pin To Net: Unknown Pin: Pin U1-40
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-43
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=P10.4 Pin=U2-RED
+Added Member To Class: ClassName=CollisionDetection Member=Component C 10uF
+Added Member To Class: ClassName=CollisionDetection Member=Component HP1 5HeaderPin
+Added Member To Class: ClassName=CollisionDetection Member=Component HP2 5HeaderPin
+Added Member To Class: ClassName=CollisionDetection Member=Component HP3 5HeaderPin
+Added Member To Class: ClassName=CollisionDetection Member=Component HP4 5HeaderPin
+Added Member To Class: ClassName=CollisionDetection Member=Component HP5 5HeaderPin
+Added Member To Class: ClassName=CollisionDetection Member=Component R1 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R2 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R3 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R4 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R5 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R6 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R7 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R8 RC0603FR-102ML
+Added Member To Class: ClassName=CollisionDetection Member=Component R9 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component U1 CYBLE-416045-02
+Added Member To Class: ClassName=CollisionDetection Member=Component U2 Tri-LED
+Added Room: Name=CollisionDetection

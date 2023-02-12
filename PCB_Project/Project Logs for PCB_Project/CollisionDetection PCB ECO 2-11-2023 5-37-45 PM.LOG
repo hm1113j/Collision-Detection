@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=SWDCLK Pin=HP1-3
+Removed Pin From Net: NetName=SWDIO Pin=HP1-4
+Removed Pin From Net: NetName=RESET Pin=HP1-5
+Removed Pin From Net: NetName=VDD Pin=HP4-1
+Removed Pin From Net: NetName=SCL Pin=HP4-2
+Removed Pin From Net: NetName=SDA Pin=HP4-3
+Removed Pin From Net: NetName=RX Pin=R2-2
+Removed Pin From Net: NetName=TX Pin=R4-2
+Removed Pin From Net: NetName=SDA Pin=R6-1
+Removed Pin From Net: NetName=SCL Pin=R8-1
+Removed Pin From Net: NetName=VDD Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=U2-GND
+Removed Member From Class: ClassName=CollisionDetection Member=HP5
+Removed Member From Class: ClassName=CollisionDetection Member=U2
+Change Component Designator: OldDesignator=HP5 NewDesignator=HP4
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC1608X55N"; UniqueID = "\ZPNPGKPX" ("\ZPNPGKPX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-102ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XCVR_CYBLE-416045-02
+Added Pin To Net: NetName=SWDCLK Pin=HP1-2
+Added Pin To Net: NetName=SWDIO Pin=HP1-3
+Added Pin To Net: NetName=RESET Pin=HP1-4
+Added Pin To Net: NetName=VDD Pin=HP3-1
+Added Pin To Net: NetName=TX Pin=R2-2
+Added Pin To Net: NetName=SWDCLK Pin=R3-2
+Added Pin To Net: NetName=RX Pin=R4-2
+Added Pin To Net: NetName=SDA Pin=R6-2
+Added Pin To Net: NetName=SDA Pin=R7-1
+Added Pin To Net: NetName=SCL Pin=R8-2
+Added Pin To Net: NetName=VDD Pin=R9-1
+Added Pin To Net: NetName=SCL Pin=R10-1
+Added Pin To Net: NetName=VDD Pin=R10-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-43
+Change Net Name : Old Net Name=VDD New Net Name=VBUCK
+Added Pin To Net: NetName=ECHO1 Pin=HP4-3
+Added Net: Name=ECHO1
+Added Pin To Net: NetName=ECHO2 Pin=HP3-2
+Added Net: Name=ECHO2
+Added Pin To Net: NetName=ECHO3 Pin=HP3-4
+Added Net: Name=ECHO3
+Added Pin To Net: NetName=ECHO Pin=HP4-1
+Added Net: Name=ECHO
+Added Pin To Net: NetName=LED Pin=HP4-5
+Added Net: Name=LED
+Added Pin To Net: NetName=P5_0 Pin=R4-1
+Added Net: Name=P5_0
+Added Pin To Net: NetName=P5_1 Pin=R2-1
+Added Net: Name=P5_1
+Added Pin To Net: NetName=P6_4 Pin=R8-1
+Added Net: Name=P6_4
+Added Pin To Net: NetName=P6_5 Pin=R6-1
+Added Net: Name=P6_5
+Added Pin To Net: NetName=P6_6 Pin=R5-1
+Added Net: Name=P6_6
+Added Pin To Net: NetName=P6_7 Pin=R3-1
+Added Net: Name=P6_7
+Added Pin To Net: NetName=TRIGGER1 Pin=HP4-4
+Added Net: Name=TRIGGER1
+Added Pin To Net: NetName=TRIGGER2 Pin=HP3-3
+Added Net: Name=TRIGGER2
+Added Pin To Net: NetName=TRIGGER3 Pin=HP3-5
+Added Net: Name=TRIGGER3
+Added Pin To Net: NetName=TRIGGER Pin=HP4-2
+Added Net: Name=TRIGGER
+Added Pin To Net: NetName=VBACKUP Pin=HP2-1
+Added Pin To Net: NetName=VBACKUP Pin=R9-2
+Added Net: Name=VBACKUP
+Added Pin To Net: NetName=VREF Pin=HP1-5
+Added Net: Name=VREF
+Added Member To Class: ClassName=CollisionDetection Member=Component R10 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component U1 CYBLE-416045-02

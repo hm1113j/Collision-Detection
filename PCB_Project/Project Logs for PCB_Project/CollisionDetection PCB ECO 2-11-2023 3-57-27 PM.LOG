@@ -1,0 +1,55 @@
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found 5HeaderPin
+Add Component: Footprint Not Found 5HeaderPin
+Add Component: Footprint Not Found 5HeaderPin
+Add Component: Footprint Not Found 5HeaderPin
+Add Component: Footprint Not Found 5HeaderPin
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found XCVR_CYBLE-416045-02
+Add Component: Footprint Not Found Tri-LED
+Added Net: Name=ADC_GPIO
+Added Net: Name=GND
+Added Net: Name=GPIO1
+Added Net: Name=GPIO2
+Added Net: Name=GPIO3
+Added Net: Name=NetR6_2
+Added Net: Name=NetR8_2
+Added Net: Name=P5.0
+Added Net: Name=P5.1
+Added Net: Name=P6.6
+Added Net: Name=P6.7
+Added Net: Name=P9.0
+Added Net: Name=P9.1
+Added Net: Name=P9.2
+Added Net: Name=P9.5
+Added Net: Name=P9.6
+Added Net: Name=P10.0
+Added Net: Name=P10.1
+Added Net: Name=P10.2
+Added Net: Name=P10.3
+Added Net: Name=P10.4
+Added Net: Name=P12.6
+Added Net: Name=P12.7
+Added Net: Name=RESET
+Added Net: Name=RX
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Net: Name=SWDCLK
+Added Net: Name=SWDCLK
+Added Net: Name=SWDIO
+Added Net: Name=TX
+Added Net: Name=VB
+Added Net: Name=VBUS
+Added Net: Name=VDD
+Added Net: Name=VR
+Added Net: Name=XRES
+Added Class: Name=CollisionDetection
+Added Room: Name=CollisionDetection

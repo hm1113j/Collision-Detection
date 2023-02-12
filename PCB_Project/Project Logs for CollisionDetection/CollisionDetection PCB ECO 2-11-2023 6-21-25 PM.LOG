@@ -1,0 +1,71 @@
+Added Component: Designator=C(CAPC1608X90)
+Added Component: Designator=HP1(5HeaderPin)
+Added Component: Designator=HP2(5HeaderPin)
+Added Component: Designator=HP3(5HeaderPin)
+Added Component: Designator=HP4(5HeaderPin)
+Added Component: Designator=R1(RESC1608X55N)
+Added Component: Designator=R2(RESC1608X55N)
+Added Component: Designator=R3(RESC1608X55N)
+Added Component: Designator=R4(RESC1608X55N)
+Added Component: Designator=R5(RESC1608X55N)
+Added Component: Designator=R6(RESC1608X55N)
+Added Component: Designator=R7(RESC1608X55N)
+Added Component: Designator=R8(RESC1608X55N)
+Added Component: Designator=R9(RESC1608X55N)
+Added Component: Designator=R10(RESC1608X55N)
+Added Component: Designator=U(XCVR_CYBLE-416045-02)
+Add Pin To Net: Unknown Pin: Pin C-1
+Add Pin To Net: Unknown Pin: Pin C-2
+Add Pin To Net: Unknown Pin: Pin HP1-1
+Add Pin To Net: Unknown Pin: Pin HP2-1
+Add Pin To Net: Unknown Pin: Pin HP3-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin U-1
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-15
+Add Pin To Net: Unknown Pin: Pin U-43
+Added Net: Name=NetHP1_2
+Added Net: Name=NetHP1_3
+Added Net: Name=NetHP1_4
+Added Net: Name=NetHP1_5
+Added Net: Name=NetHP2_2
+Added Net: Name=NetHP2_3
+Added Net: Name=NetHP2_4
+Added Net: Name=NetHP2_5
+Added Net: Name=NetHP3_2
+Added Net: Name=NetHP3_3
+Added Net: Name=NetHP3_4
+Added Net: Name=NetHP3_5
+Added Net: Name=NetHP4_1
+Added Net: Name=NetHP4_2
+Added Net: Name=NetHP4_3
+Added Net: Name=NetHP4_4
+Added Net: Name=NetHP4_5
+Added Net: Name=NetR1_2
+Added Net: Name=NetR2_2
+Added Net: Name=NetR3_1
+Added Net: Name=NetR4_2
+Added Net: Name=NetR5_1
+Added Net: Name=NetR6_1
+Added Net: Name=NetR8_1
+Add Class Member: Failed to add class member : Component C 10uF
+Add Class Member: Failed to add class member : Component HP1 5HeaderPin
+Add Class Member: Failed to add class member : Component HP2 5HeaderPin
+Add Class Member: Failed to add class member : Component HP3 5HeaderPin
+Add Class Member: Failed to add class member : Component HP4 5HeaderPin
+Add Class Member: Failed to add class member : Component R1 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R2 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R3 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R4 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R5 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R6 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R7 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R8 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R9 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component R10 RC0603FR-102ML
+Add Class Member: Failed to add class member : Component U CYBLE-416045-02
+Added Room: Name=CollisionDetection
