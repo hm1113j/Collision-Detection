@@ -1,8 +1,7 @@
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc6\PSoC6AnalogDevice\PSoC6AnalogDevice.cydsn\PSoC6AnalogDevice.cyprj|188f3c26-b143-41db-8852-95dc78036d2e
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|90d185fe-04b7-46c6-83c1-0150a765da16
-C:\Users\admin\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|17b4ed40-aec2-4c76-98ae-750f8038048f
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7e3debfc-cc56-43ef-94dc-ad998cf04e59
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|18c32ced-1953-4caf-a989-3b0219c16162
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|284ce7f7-85c6-4aac-a0a7-2b0b607d1397
-C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\DecelerationDetection.cyprj|65867df1-2ce5-4704-891e-53ee4f6fc8a4
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|cea21a3b-d574-4bb5-99ce-2c42933343aa
+C:\Users\admin\Desktop\EV car\DecelerationDetection.cydsn\DecelerationDetection.cyprj|0532a322-f742-461e-a32a-db5123d7c81e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|cfe1d032-7972-4828-b6d4-da7d13b781ab
+C:\Users\admin\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|600cb583-4b00-44e4-9a3c-862d7af68943
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|66731fd5-26a4-43aa-ac00-0fcb5ef7e6fd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2313f56e-e889-4900-be0a-e6e776eeaa78
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f8503d16-dbff-45b8-ab99-4a4f7c0439a7
+C:\Users\admin\Desktop\EV car\UltraSonic.cydsn\UltraSonic.cyprj|9a0b35c3-9b38-4523-be74-6575fc91d577

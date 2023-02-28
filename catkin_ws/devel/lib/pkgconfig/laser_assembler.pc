@@ -1,0 +1,8 @@
+prefix=/home/ecofoxtrot/catkin_ws/devel
+
+Name: laser_assembler
+Description: Description of laser_assembler
+Version: 1.7.7
+Cflags: -I/home/ecofoxtrot/catkin_ws/devel/include -I/home/ecofoxtrot/catkin_ws/src/laser_assembler/include
+Libs: -L${prefix}/lib 
+Requires: tf sensor_msgs message_filters roscpp laser_geometry filters message_runtime

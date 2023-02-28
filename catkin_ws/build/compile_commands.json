@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/ecofoxtrot/catkin_ws/build/datmo",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -I/home/ecofoxtrot/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3    -std=c++11 -o CMakeFiles/datmo.dir/src/main.cpp.o -c /home/ecofoxtrot/catkin_ws/src/datmo/src/main.cpp",
+  "file": "/home/ecofoxtrot/catkin_ws/src/datmo/src/main.cpp"
+},
+{
+  "directory": "/home/ecofoxtrot/catkin_ws/build/datmo",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -I/home/ecofoxtrot/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3    -std=c++11 -o CMakeFiles/datmo.dir/src/l_shape_tracker.cpp.o -c /home/ecofoxtrot/catkin_ws/src/datmo/src/l_shape_tracker.cpp",
+  "file": "/home/ecofoxtrot/catkin_ws/src/datmo/src/l_shape_tracker.cpp"
+},
+{
+  "directory": "/home/ecofoxtrot/catkin_ws/build/datmo",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -I/home/ecofoxtrot/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3    -std=c++11 -o CMakeFiles/datmo.dir/src/kalman-cpp/kalman.cpp.o -c /home/ecofoxtrot/catkin_ws/src/datmo/src/kalman-cpp/kalman.cpp",
+  "file": "/home/ecofoxtrot/catkin_ws/src/datmo/src/kalman-cpp/kalman.cpp"
+},
+{
+  "directory": "/home/ecofoxtrot/catkin_ws/build/datmo",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -I/home/ecofoxtrot/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3    -std=c++11 -o CMakeFiles/datmo.dir/src/datmo.cpp.o -c /home/ecofoxtrot/catkin_ws/src/datmo/src/datmo.cpp",
+  "file": "/home/ecofoxtrot/catkin_ws/src/datmo/src/datmo.cpp"
+},
+{
+  "directory": "/home/ecofoxtrot/catkin_ws/build/datmo",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"datmo\\\" -I/home/ecofoxtrot/catkin_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3    -std=c++11 -o CMakeFiles/datmo.dir/src/cluster.cpp.o -c /home/ecofoxtrot/catkin_ws/src/datmo/src/cluster.cpp",
+  "file": "/home/ecofoxtrot/catkin_ws/src/datmo/src/cluster.cpp"
+}
+]

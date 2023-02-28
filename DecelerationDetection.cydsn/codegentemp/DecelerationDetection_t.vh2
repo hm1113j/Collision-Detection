@@ -1,5 +1,5 @@
--- Project:   C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\DecelerationDetection.cyprj
--- Generated: 12/22/2022 13:50:32
+-- Project:   C:\Users\admin\Desktop\EV car\DecelerationDetection.cydsn\DecelerationDetection.cyprj
+-- Generated: 02/15/2023 23:02:08
 -- PSoC Creator  4.4
 
 ENTITY DecelerationDetection IS

@@ -1,3 +1,3 @@
-# Component constraints for C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\TopDesign\TopDesign.cysch
-# Project: C:\Users\admin\Desktop\PSoC Creator_1\SeniorDesign\DecelerationDetection.cydsn\DecelerationDetection.cyprj
-# Date: Thu, 22 Dec 2022 21:49:55 GMT
+# Component constraints for C:\Users\admin\Desktop\EV car\DecelerationDetection.cydsn\TopDesign\TopDesign.cysch
+# Project: C:\Users\admin\Desktop\EV car\DecelerationDetection.cydsn\DecelerationDetection.cyprj
+# Date: Thu, 16 Feb 2023 07:01:41 GMT

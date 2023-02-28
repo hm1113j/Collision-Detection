@@ -1,0 +1,8 @@
+prefix=/home/ecofoxtrot/catkin_ws/install
+
+Name: laser_assembler_demo
+Description: Description of laser_assembler_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ecofoxtrot/catkin_ws/devel
+
+Name: cluster_counter
+Description: Description of cluster_counter
+Version: 0.0.0
+Cflags: -I/home/ecofoxtrot/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

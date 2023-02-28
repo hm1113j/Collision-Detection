@@ -1,0 +1,4 @@
+<launch>
+  <node name="test_client" pkg="laser_assembler_demo" type="call_assembler.py" output="screen">
+  </node>
+</launch>
